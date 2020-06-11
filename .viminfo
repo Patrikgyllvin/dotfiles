@@ -1,0 +1,2724 @@
+# Den här viminfo-filen genererades av Vim 8.2.
+# Du får redigera den om du är försiktig!
+
+# Viminfo version
+|1,4
+
+# Värde av 'encoding' när den här filen blev skriven
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Senaste Sökmönster:
+~Msle0~/\<combinations\>
+
+# Senaste Substitute Sökmönster:
+~MSle0&newLevel
+
+# Senaste ersättningssträng:
+$
+
+# Kommandorad Historia (nyaste till äldsta):
+:q!
+|2,0,1591217757,,"q!"
+:q
+|2,0,1591217756,,"q"
+:w!
+|2,0,1591217753,,"w!"
+:wq
+|2,0,1591217751,,"wq"
+:Q
+|2,0,1591207809,,"Q"
+:w
+|2,0,1591088606,,"w"
+:W
+|2,0,1590676569,,"W"
+:tabnew /home/patrik/Downloads/lab5.clj
+|2,0,1590410589,,"tabnew /home/patrik/Downloads/lab5.clj"
+:tabnew 
+|2,0,1590405193,,"tabnew "
+:tabnew src/edaa40/huffutil.clj
+|2,0,1590404780,,"tabnew src/edaa40/huffutil.clj"
+:o -p src/edaa40/huffutil.clj
+|2,0,1590404754,,"o -p src/edaa40/huffutil.clj"
+:o src/edaa40/huffutil.clj
+|2,0,1590404307,,"o src/edaa40/huffutil.clj"
+:o src/edaa40/huffutil
+|2,0,1590404296,,"o src/edaa40/huffutil"
+:o 
+|2,0,1590400928,,"o "
+:o .config/awesome/awesome-wm-widgets/volume-widget/volume.lua
+|2,0,1590328663,,"o .config/awesome/awesome-wm-widgets/volume-widget/volume.lua"
+:o .config/awesome/awesome-wm-widgets/volume-widget/volume.lu
+|2,0,1590328643,,"o .config/awesome/awesome-wm-widgets/volume-widget/volume.lu"
+:o .config/awesome/awesome-wm-widgets/battery-widget/battery.lua
+|2,0,1590328098,,"o .config/awesome/awesome-wm-widgets/battery-widget/battery.lua"
+:o .config/awesome/aweome-wm-widgets/volume-widget
+|2,0,1590327359,,"o .config/awesome/aweome-wm-widgets/volume-widget"
+:o .config/conky/conky.conf
+|2,0,1590324034,,"o .config/conky/conky.conf"
+:o src/edaa40/core.clj
+|2,0,1589813006,,"o src/edaa40/core.clj"
+:o ListSorter.java
+|2,0,1589452690,,"o ListSorter.java"
+:§
+|2,0,1588691768,,"§"
+:s
+|2,0,1588188323,,"s"
+:%s/newLevel/level/g
+|2,0,1588179679,,"%s/newLevel/level/g"
+:%s/level/newLevel/g
+|2,0,1588176465,,"%s/level/newLevel/g"
+:tabnew .config/awesome/rc.lua
+|2,0,1588166511,,"tabnew .config/awesome/rc.lua"
+:tabnew kbdBrightnessCtrl/kbd_brightness.cpp
+|2,0,1588166151,,"tabnew kbdBrightnessCtrl/kbd_brightness.cpp"
+:tabnew ../.config/awesome/rc.lua
+|2,0,1588164731,,"tabnew ../.config/awesome/rc.lua"
+:set highlight
+|2,0,1588096624,,"set highlight"
+:hl
+|2,0,1588096618,,"hl"
+:hon
+|2,0,1588096614,,"hon"
+:noh
+|2,0,1588096612,,"noh"
+:ho
+|2,0,1588096583,,"ho"
+:tabnew src/amoebas/examples.clj
+|2,0,1588084338,,"tabnew src/amoebas/examples.clj"
+:tabnew src/amoebas/lib.clj
+|2,0,1588084303,,"tabnew src/amoebas/lib.clj"
+:tabnew src/lchaim/core.clj
+|2,0,1588075964,,"tabnew src/lchaim/core.clj"
+:tabnew ../amoebas/examples.clj
+|2,0,1588026315,,"tabnew ../amoebas/examples.clj"
+:e
+|2,0,1588025085,,"e"
+:tabnew ../amoebas/run.clj
+|2,0,1588024102,,"tabnew ../amoebas/run.clj"
+:tabnew ../amoebas/defs.clj
+|2,0,1588023615,,"tabnew ../amoebas/defs.clj"
+:tabnew ../amoebas/lib.clj
+|2,0,1588023595,,"tabnew ../amoebas/lib.clj"
+:o .
+|2,0,1588023360,,"o ."
+:tabnew ../lchaim/core.clj
+|2,0,1588021393,,"tabnew ../lchaim/core.clj"
+:o -t examples.clj
+|2,0,1588021223,,"o -t examples.clj"
+:O examples.clj
+|2,0,1588021210,,"O examples.clj"
+:o ../lchaim/core.clj
+|2,0,1588021195,,"o ../lchaim/core.clj"
+:i
+|2,0,1587730538,,"i"
+:.
+|2,0,1587651148,,"."
+:wjk
+|2,0,1587647382,,"wjk"
+:wqjk
+|2,0,1587634522,,"wqjk"
+
+# Söksträng Historia (nyaste till äldsta):
+? \<combinations\>
+|2,1,1590698456,,"\\<combinations\\>"
+? \<seq\>
+|2,1,1590488499,,"\\<seq\\>"
+? \<decode\>
+|2,1,1590412310,,"\\<decode\\>"
+? )]
+|2,1,1590410682,,")]"
+? @$
+|2,1,1590409407,,"@$"
+? \<battery_widget\>
+|2,1,1590329530,,"\\<battery_widget\\>"
+?/dpi
+|2,1,1590328184,47,"dpi"
+? \<17\>
+|2,1,1590323664,,"\\<17\\>"
+?/blacklist
+|2,1,1588280403,47,"blacklist"
+?/globalkeys
+|2,1,1588258535,47,"globalkeys"
+?/keys
+|2,1,1588188337,47,"keys"
+?/kbd
+|2,1,1588187842,47,"kbd"
+???
+|2,1,1588187501,63,"?"
+? newLevel
+|2,1,1588179679,,"newLevel"
+? level
+|2,1,1588176465,,"level"
+?/level
+|2,1,1588176401,47,"level"
+? \<n\>
+|2,1,1588171447,,"\\<n\\>"
+?/ujk
+|2,1,1588171413,47,"ujk"
+? \<argv\>
+|2,1,1588166841,,"\\<argv\\>"
+? \[])
+|2,1,1588166840,,"\\[])"
+?/??>>>...,,,..>>???<<<??<>>><><><><><><.,.,.,/.,/.,<>
+|2,1,1588166733,47,"??>>>...,,,..>>???<<<??<>>><><><><><><.,.,.,/.,/.,<>"
+?/>>
+|2,1,1588166722,47,">>"
+?/terminal
+|2,1,1588164808,47,"terminal"
+?/widget
+|2,1,1588164769,47,"widget"
+?/kbdcfg
+|2,1,1588164741,47,"kbdcfg"
+?/color
+|2,1,1588096565,47,"color"
+?/divide-energy
+|2,1,1588084349,47,"divide-energy"
+?/divide-
+|2,1,1588084317,47,"divide-"
+?/energy
+|2,1,1588084314,47,"energy"
+?/most-energy
+|2,1,1588082368,47,"most-energy"
+?/select-target
+|2,1,1588082295,47,"select-target"
+?/Neighbors
+|2,1,1588082122,47,"Neighbors"
+?/Environment
+|2,1,1588082088,47,"Environment"
+?/hostiles
+|2,1,1588082025,47,"hostiles"
+? \<KVER\>
+|2,1,1588016750,,"\\<KVER\\>"
+?/;
+|2,1,1587729729,47,";"
+?/first
+|2,1,1587722624,47,"first"
+? \<plot\>
+|2,1,1587652642,,"\\<plot\\>"
+? \<c\>
+|2,1,1587651223,,"\\<c\\>"
+? \<i\>
+|2,1,1587650417,,"\\<i\\>"
+? \<pFrame\>
+|2,1,1587650355,,"\\<pFrame\\>"
+?/)
+|2,1,1587648389,47,")"
+?/0
+|2,1,1587639844,47,"0"
+?/]
+|2,1,1587636729,47,"]"
+? \<Config\>
+|2,1,1587633676,,"\\<Config\\>"
+?/Config.CA
+|2,1,1587633669,47,"Config.CA"
+?/inner
+|2,1,1587585024,47,"inner"
+?/internal
+|2,1,1587585019,47,"internal"
+? \<plotresult\>
+|2,1,1587577663,,"\\<plotresult\\>"
+? \<confInterval\>
+|2,1,1587577643,,"\\<confInterval\\>"
+
+# Uttryck Historia (nyaste till äldsta):
+
+# Inmatningsrad Historia (nyaste till äldsta):
+
+# Debug Line Historia (nyaste till äldsta):
+
+# Register:
+"0	CHAR	0
+	¬
+|3,0,0,0,1,0,1590825433,"¬"
+""1	LINE	0
+		def DNF(truthMap: Map[Vector[Int], Int]): String {
+			val vars: Vector[String] = Vector("p", "q", "r", "s", "t", "u", "v", "a", "b", "c", "d", "e", "g", "h")
+			
+			var DNF: String = ""
+			val cases = truthMap.filter(_._2 == 1).keys.toVector
+			
+			cases.zipWithIndex.foreach { (xs, i) =>
+				DNF += '('
+				
+				(0 until xs.length).foreach { j => xs(j) match {
+					case x if x == 0 => DNF += "¬" + vars(j) + if (j != xs.length - 1) ", "
+					case _ => DNF += vars(i) + if (j != xs.length - 1) ", "
+				}}
+				
+				DNF += ')' + if (i != cases.length - 1) " ∨ "
+			}
+|3,1,1,1,16,0,1590826437,"	def DNF(truthMap: Map[Vector[Int], Int]): String {","		val vars: Vector[String] = Vector(\"p\", \"q\", \"r\", \"s\", \"t\", \"u\", \"v\", \"a\", \"b\", \"c\", \"d\", \"e\", \"g\", \"h\")","		","		var DNF: String = \"\"","		val cases = truthMap.filter(_._2 == 1).keys.toVector","		","		cases.zipWithIndex.foreach { (xs, i) =>","			DNF += '('","			","			(0 until xs.length).foreach { j => xs(j) match {",>82
+|<"				case x if x == 0 => DNF += \"¬\" + vars(j) + if (j != xs.length - 1) \", \"","				case _ => DNF += vars(i) + if (j != xs.length - 1) \", \"","			}}","			","			DNF += ')' + if (i != cases.length - 1) \" ∨ \"","		}"
+"2	LINE	0
+					}
+|3,0,2,1,1,0,1590698262,"				}"
+"3	LINE	0
+					var comp = 0
+|3,0,3,1,1,0,1590698261,"				var comp = 0"
+"4	LINE	0
+					for(i <- (0 until a.sidze)) {
+						comp = b(i) compare a(i)
+|3,0,4,1,2,0,1590698260,"				for(i <- (0 until a.sidze)) {","					comp = b(i) compare a(i)"
+"5	LINE	0
+	import scala.collection.immutable.TreeMap
+|3,0,5,1,1,0,1590676659,"import scala.collection.immutable.TreeMap"
+"6	LINE	0
+		//def DNF(bool: Boolean*) = bool._1
+|3,0,6,1,1,0,1590673961,"	//def DNF(bool: Boolean*) = bool._1"
+"7	LINE	0
+		
+|3,0,7,1,1,0,1590673204,"	"
+"8	LINE	0
+		val values: Set[Boolean] = Set(true, false)
+|3,0,8,1,1,0,1590673203,"	val values: Set[Boolean] = Set(true, false)"
+"9	LINE	0
+		val values: Set[Boolean] = Set(true, false)
+|3,0,9,1,1,0,1590673194,"	val values: Set[Boolean] = Set(true, false)"
+"-	CHAR	0
+	 (decode-symbol (T :right) (drop 1 bits)))
+|3,0,36,0,1,0,1590412317," (decode-symbol (T :right) (drop 1 bits)))"
+
+# Filmärken:
+'0  8  33  /etc/X11/xorg.conf.d/30-touchpad.conf
+|4,48,8,33,1591217757,"/etc/X11/xorg.conf.d/30-touchpad.conf"
+'1  1  0  /etc/X11/xorg.conf.d/31-mouse.conf
+|4,49,1,0,1591217730,"/etc/X11/xorg.conf.d/31-mouse.conf"
+'2  4  0  /etc/X11/xorg.conf.d/00-keyboard.conf
+|4,50,4,0,1591217727,"/etc/X11/xorg.conf.d/00-keyboard.conf"
+'3  1  0  /etc/X11/xorg.conf.d/31-mouse.conf
+|4,51,1,0,1591217719,"/etc/X11/xorg.conf.d/31-mouse.conf"
+'4  3  5  /etc/X11/xorg.conf.d/30-touchpad.conf
+|4,52,3,5,1591217712,"/etc/X11/xorg.conf.d/30-touchpad.conf"
+'5  3  5  /etc/X11/xorg.conf.d/30-touchpad.conf
+|4,53,3,5,1591217712,"/etc/X11/xorg.conf.d/30-touchpad.conf"
+'6  3  0  ~/ofono/test/list-modems
+|4,54,3,0,1591208294,"~/ofono/test/list-modems"
+'7  108  0  /etc/bluetooth/main.conf
+|4,55,108,0,1591207810,"/etc/bluetooth/main.conf"
+'8  19  17  ~/.gtkrc-2.0
+|4,56,19,17,1591201560,"~/.gtkrc-2.0"
+'9  69  0  ~/Documents/UPSproj/main.cpp
+|4,57,69,0,1591128312,"~/Documents/UPSproj/main.cpp"
+
+# Hopplista (nyaste först):
+-'  8  33  /etc/X11/xorg.conf.d/30-touchpad.conf
+|4,39,8,33,1591217757,"/etc/X11/xorg.conf.d/30-touchpad.conf"
+-'  3  5  /etc/X11/xorg.conf.d/30-touchpad.conf
+|4,39,3,5,1591217732,"/etc/X11/xorg.conf.d/30-touchpad.conf"
+-'  1  0  /etc/X11/xorg.conf.d/31-mouse.conf
+|4,39,1,0,1591217730,"/etc/X11/xorg.conf.d/31-mouse.conf"
+-'  1  0  /etc/X11/xorg.conf.d/31-mouse.conf
+|4,39,1,0,1591217730,"/etc/X11/xorg.conf.d/31-mouse.conf"
+-'  4  0  /etc/X11/xorg.conf.d/00-keyboard.conf
+|4,39,4,0,1591217727,"/etc/X11/xorg.conf.d/00-keyboard.conf"
+-'  4  0  /etc/X11/xorg.conf.d/00-keyboard.conf
+|4,39,4,0,1591217727,"/etc/X11/xorg.conf.d/00-keyboard.conf"
+-'  4  0  /etc/X11/xorg.conf.d/00-keyboard.conf
+|4,39,4,0,1591217727,"/etc/X11/xorg.conf.d/00-keyboard.conf"
+-'  4  0  /etc/X11/xorg.conf.d/00-keyboard.conf
+|4,39,4,0,1591217727,"/etc/X11/xorg.conf.d/00-keyboard.conf"
+-'  1  0  /etc/X11/xorg.conf.d/00-keyboard.conf
+|4,39,1,0,1591217722,"/etc/X11/xorg.conf.d/00-keyboard.conf"
+-'  1  0  /etc/X11/xorg.conf.d/00-keyboard.conf
+|4,39,1,0,1591217722,"/etc/X11/xorg.conf.d/00-keyboard.conf"
+-'  1  0  /etc/X11/xorg.conf.d/00-keyboard.conf
+|4,39,1,0,1591217722,"/etc/X11/xorg.conf.d/00-keyboard.conf"
+-'  1  0  /etc/X11/xorg.conf.d/00-keyboard.conf
+|4,39,1,0,1591217722,"/etc/X11/xorg.conf.d/00-keyboard.conf"
+-'  1  0  /etc/X11/xorg.conf.d/31-mouse.conf
+|4,39,1,0,1591217719,"/etc/X11/xorg.conf.d/31-mouse.conf"
+-'  1  0  /etc/X11/xorg.conf.d/31-mouse.conf
+|4,39,1,0,1591217719,"/etc/X11/xorg.conf.d/31-mouse.conf"
+-'  1  0  /etc/X11/xorg.conf.d/31-mouse.conf
+|4,39,1,0,1591217719,"/etc/X11/xorg.conf.d/31-mouse.conf"
+-'  1  0  /etc/X11/xorg.conf.d/31-mouse.conf
+|4,39,1,0,1591217719,"/etc/X11/xorg.conf.d/31-mouse.conf"
+-'  3  5  /etc/X11/xorg.conf.d/30-touchpad.conf
+|4,39,3,5,1591217712,"/etc/X11/xorg.conf.d/30-touchpad.conf"
+-'  3  5  /etc/X11/xorg.conf.d/30-touchpad.conf
+|4,39,3,5,1591217712,"/etc/X11/xorg.conf.d/30-touchpad.conf"
+-'  3  5  /etc/X11/xorg.conf.d/30-touchpad.conf
+|4,39,3,5,1591217712,"/etc/X11/xorg.conf.d/30-touchpad.conf"
+-'  3  5  /etc/X11/xorg.conf.d/30-touchpad.conf
+|4,39,3,5,1591217712,"/etc/X11/xorg.conf.d/30-touchpad.conf"
+-'  3  5  /etc/X11/xorg.conf.d/30-touchpad.conf
+|4,39,3,5,1591217712,"/etc/X11/xorg.conf.d/30-touchpad.conf"
+-'  3  5  /etc/X11/xorg.conf.d/30-touchpad.conf
+|4,39,3,5,1591217712,"/etc/X11/xorg.conf.d/30-touchpad.conf"
+-'  3  5  /etc/X11/xorg.conf.d/30-touchpad.conf
+|4,39,3,5,1591217712,"/etc/X11/xorg.conf.d/30-touchpad.conf"
+-'  3  5  /etc/X11/xorg.conf.d/30-touchpad.conf
+|4,39,3,5,1591217712,"/etc/X11/xorg.conf.d/30-touchpad.conf"
+-'  1  0  /etc/X11/xorg.conf.d/30-touchpad.conf
+|4,39,1,0,1591217699,"/etc/X11/xorg.conf.d/30-touchpad.conf"
+-'  1  0  /etc/X11/xorg.conf.d/30-touchpad.conf
+|4,39,1,0,1591217699,"/etc/X11/xorg.conf.d/30-touchpad.conf"
+-'  1  0  /etc/X11/xorg.conf.d/30-touchpad.conf
+|4,39,1,0,1591217699,"/etc/X11/xorg.conf.d/30-touchpad.conf"
+-'  1  0  /etc/X11/xorg.conf.d/30-touchpad.conf
+|4,39,1,0,1591217699,"/etc/X11/xorg.conf.d/30-touchpad.conf"
+-'  1  0  /etc/X11/xorg.conf.d/30-touchpad.conf
+|4,39,1,0,1591217699,"/etc/X11/xorg.conf.d/30-touchpad.conf"
+-'  1  0  /etc/X11/xorg.conf.d/30-touchpad.conf
+|4,39,1,0,1591217699,"/etc/X11/xorg.conf.d/30-touchpad.conf"
+-'  1  0  /etc/X11/xorg.conf.d/30-touchpad.conf
+|4,39,1,0,1591217699,"/etc/X11/xorg.conf.d/30-touchpad.conf"
+-'  1  0  /etc/X11/xorg.conf.d/30-touchpad.conf
+|4,39,1,0,1591217699,"/etc/X11/xorg.conf.d/30-touchpad.conf"
+-'  1  0  /etc/X11/xorg.conf.d/30-touchpad.conf
+|4,39,1,0,1591217699,"/etc/X11/xorg.conf.d/30-touchpad.conf"
+-'  3  0  ~/ofono/test/list-modems
+|4,39,3,0,1591208294,"~/ofono/test/list-modems"
+-'  3  0  ~/ofono/test/list-modems
+|4,39,3,0,1591208294,"~/ofono/test/list-modems"
+-'  3  0  ~/ofono/test/list-modems
+|4,39,3,0,1591208294,"~/ofono/test/list-modems"
+-'  3  0  ~/ofono/test/list-modems
+|4,39,3,0,1591208294,"~/ofono/test/list-modems"
+-'  3  0  ~/ofono/test/list-modems
+|4,39,3,0,1591208294,"~/ofono/test/list-modems"
+-'  3  0  ~/ofono/test/list-modems
+|4,39,3,0,1591208294,"~/ofono/test/list-modems"
+-'  3  0  ~/ofono/test/list-modems
+|4,39,3,0,1591208294,"~/ofono/test/list-modems"
+-'  3  0  ~/ofono/test/list-modems
+|4,39,3,0,1591208294,"~/ofono/test/list-modems"
+-'  3  0  ~/ofono/test/list-modems
+|4,39,3,0,1591208294,"~/ofono/test/list-modems"
+-'  3  0  ~/ofono/test/list-modems
+|4,39,3,0,1591208294,"~/ofono/test/list-modems"
+-'  3  0  ~/ofono/test/list-modems
+|4,39,3,0,1591208294,"~/ofono/test/list-modems"
+-'  3  0  ~/ofono/test/list-modems
+|4,39,3,0,1591208294,"~/ofono/test/list-modems"
+-'  3  0  ~/ofono/test/list-modems
+|4,39,3,0,1591208294,"~/ofono/test/list-modems"
+-'  3  0  ~/ofono/test/list-modems
+|4,39,3,0,1591208294,"~/ofono/test/list-modems"
+-'  3  0  ~/ofono/test/list-modems
+|4,39,3,0,1591208294,"~/ofono/test/list-modems"
+-'  3  0  ~/ofono/test/list-modems
+|4,39,3,0,1591208294,"~/ofono/test/list-modems"
+-'  3  0  ~/ofono/test/list-modems
+|4,39,3,0,1591208294,"~/ofono/test/list-modems"
+-'  3  0  ~/ofono/test/list-modems
+|4,39,3,0,1591208294,"~/ofono/test/list-modems"
+-'  3  0  ~/ofono/test/list-modems
+|4,39,3,0,1591208294,"~/ofono/test/list-modems"
+-'  3  0  ~/ofono/test/list-modems
+|4,39,3,0,1591208294,"~/ofono/test/list-modems"
+-'  3  0  ~/ofono/test/list-modems
+|4,39,3,0,1591208294,"~/ofono/test/list-modems"
+-'  3  0  ~/ofono/test/list-modems
+|4,39,3,0,1591208294,"~/ofono/test/list-modems"
+-'  3  0  ~/ofono/test/list-modems
+|4,39,3,0,1591208294,"~/ofono/test/list-modems"
+-'  3  0  ~/ofono/test/list-modems
+|4,39,3,0,1591208294,"~/ofono/test/list-modems"
+-'  3  0  ~/ofono/test/list-modems
+|4,39,3,0,1591208294,"~/ofono/test/list-modems"
+-'  3  0  ~/ofono/test/list-modems
+|4,39,3,0,1591208294,"~/ofono/test/list-modems"
+-'  3  0  ~/ofono/test/list-modems
+|4,39,3,0,1591208294,"~/ofono/test/list-modems"
+-'  3  0  ~/ofono/test/list-modems
+|4,39,3,0,1591208294,"~/ofono/test/list-modems"
+-'  3  0  ~/ofono/test/list-modems
+|4,39,3,0,1591208294,"~/ofono/test/list-modems"
+-'  3  0  ~/ofono/test/list-modems
+|4,39,3,0,1591208294,"~/ofono/test/list-modems"
+-'  3  0  ~/ofono/test/list-modems
+|4,39,3,0,1591208294,"~/ofono/test/list-modems"
+-'  3  0  ~/ofono/test/list-modems
+|4,39,3,0,1591208294,"~/ofono/test/list-modems"
+-'  1  0  ~/ofono/test/list-modems
+|4,39,1,0,1591208241,"~/ofono/test/list-modems"
+-'  1  0  ~/ofono/test/list-modems
+|4,39,1,0,1591208241,"~/ofono/test/list-modems"
+-'  1  0  ~/ofono/test/list-modems
+|4,39,1,0,1591208241,"~/ofono/test/list-modems"
+-'  1  0  ~/ofono/test/list-modems
+|4,39,1,0,1591208241,"~/ofono/test/list-modems"
+-'  1  0  ~/ofono/test/list-modems
+|4,39,1,0,1591208241,"~/ofono/test/list-modems"
+-'  1  0  ~/ofono/test/list-modems
+|4,39,1,0,1591208241,"~/ofono/test/list-modems"
+-'  1  0  ~/ofono/test/list-modems
+|4,39,1,0,1591208241,"~/ofono/test/list-modems"
+-'  1  0  ~/ofono/test/list-modems
+|4,39,1,0,1591208241,"~/ofono/test/list-modems"
+-'  1  0  ~/ofono/test/list-modems
+|4,39,1,0,1591208241,"~/ofono/test/list-modems"
+-'  1  0  ~/ofono/test/list-modems
+|4,39,1,0,1591208241,"~/ofono/test/list-modems"
+-'  1  0  ~/ofono/test/list-modems
+|4,39,1,0,1591208241,"~/ofono/test/list-modems"
+-'  1  0  ~/ofono/test/list-modems
+|4,39,1,0,1591208241,"~/ofono/test/list-modems"
+-'  1  0  ~/ofono/test/list-modems
+|4,39,1,0,1591208241,"~/ofono/test/list-modems"
+-'  1  0  ~/ofono/test/list-modems
+|4,39,1,0,1591208241,"~/ofono/test/list-modems"
+-'  1  0  ~/ofono/test/list-modems
+|4,39,1,0,1591208241,"~/ofono/test/list-modems"
+-'  1  0  ~/ofono/test/list-modems
+|4,39,1,0,1591208241,"~/ofono/test/list-modems"
+-'  1  0  ~/ofono/test/list-modems
+|4,39,1,0,1591208241,"~/ofono/test/list-modems"
+-'  1  0  ~/ofono/test/list-modems
+|4,39,1,0,1591208241,"~/ofono/test/list-modems"
+-'  1  0  ~/ofono/test/list-modems
+|4,39,1,0,1591208241,"~/ofono/test/list-modems"
+-'  1  0  ~/ofono/test/list-modems
+|4,39,1,0,1591208241,"~/ofono/test/list-modems"
+-'  1  0  ~/ofono/test/list-modems
+|4,39,1,0,1591208241,"~/ofono/test/list-modems"
+-'  1  0  ~/ofono/test/list-modems
+|4,39,1,0,1591208241,"~/ofono/test/list-modems"
+-'  1  0  ~/ofono/test/list-modems
+|4,39,1,0,1591208241,"~/ofono/test/list-modems"
+-'  1  0  ~/ofono/test/list-modems
+|4,39,1,0,1591208241,"~/ofono/test/list-modems"
+-'  1  0  ~/ofono/test/list-modems
+|4,39,1,0,1591208241,"~/ofono/test/list-modems"
+-'  1  0  ~/ofono/test/list-modems
+|4,39,1,0,1591208241,"~/ofono/test/list-modems"
+-'  1  0  ~/ofono/test/list-modems
+|4,39,1,0,1591208241,"~/ofono/test/list-modems"
+-'  1  0  ~/ofono/test/list-modems
+|4,39,1,0,1591208241,"~/ofono/test/list-modems"
+-'  1  0  ~/ofono/test/list-modems
+|4,39,1,0,1591208241,"~/ofono/test/list-modems"
+-'  1  0  ~/ofono/test/list-modems
+|4,39,1,0,1591208241,"~/ofono/test/list-modems"
+-'  1  0  ~/ofono/test/list-modems
+|4,39,1,0,1591208241,"~/ofono/test/list-modems"
+-'  1  0  ~/ofono/test/list-modems
+|4,39,1,0,1591208241,"~/ofono/test/list-modems"
+-'  108  0  /etc/bluetooth/main.conf
+|4,39,108,0,1591207810,"/etc/bluetooth/main.conf"
+-'  108  0  /etc/bluetooth/main.conf
+|4,39,108,0,1591207810,"/etc/bluetooth/main.conf"
+-'  108  0  /etc/bluetooth/main.conf
+|4,39,108,0,1591207810,"/etc/bluetooth/main.conf"
+
+# Historia för märken inne i filer (nyaste till äldsta):
+
+> /etc/X11/xorg.conf.d/30-touchpad.conf
+	*	1591217756	0
+	"	8	33
+	^	8	34
+	.	8	34
+	+	8	34
+
+> /etc/X11/xorg.conf.d/31-mouse.conf
+	*	1591217729	0
+	"	1	0
+
+> /etc/X11/xorg.conf.d/00-keyboard.conf
+	*	1591217723	0
+	"	4	0
+
+> ~/ofono/test/list-modems
+	*	1591208253	0
+	"	3	0
+
+> /etc/bluetooth/main.conf
+	*	1591207809	0
+	"	108	0
+
+> ~/.gtkrc-2.0
+	*	1591201397	0
+	"	19	17
+
+> ~/Documents/UPSproj/main.cpp
+	*	1591128310	0
+	"	69	0
+	^	69	1
+	.	54	0
+	+	65	27
+	+	49	2
+	+	53	0
+	+	53	1
+	+	53	0
+	+	63	1
+	+	65	26
+	+	67	0
+	+	65	0
+	+	65	1
+	+	66	0
+	+	63	0
+	+	64	0
+	+	53	0
+	+	49	1
+	+	35	3
+	+	15	35
+	+	35	2
+	+	15	35
+	+	18	36
+	+	13	10
+	+	16	12
+	+	5	0
+	+	1	19
+	+	2	20
+	+	19	27
+	+	23	2
+	+	13	10
+	+	15	40
+	+	18	0
+	+	13	10
+	+	19	4
+	+	13	10
+	+	63	31
+	+	63	37
+	+	66	2
+	+	59	22
+	+	49	22
+	+	51	47
+	+	49	1
+	+	51	7
+	+	53	0
+	+	52	8
+	+	49	2
+	+	50	30
+	+	53	29
+	+	59	0
+	+	63	0
+	+	64	0
+	+	66	20
+	+	41	0
+	+	39	28
+	+	39	14
+	+	39	2
+	+	39	1
+	+	39	20
+	+	39	0
+	+	39	26
+	+	39	88
+	+	39	39
+	+	11	6
+	+	27	55
+	+	38	0
+	+	39	0
+	+	9	17
+	+	31	23
+	+	25	19
+	+	24	2
+	+	25	32
+	+	25	18
+	+	25	0
+	+	24	0
+	+	31	25
+	+	24	2
+	+	25	18
+	+	31	23
+	+	39	0
+	+	39	1
+	+	39	27
+	+	53	23
+	+	59	49
+	+	59	0
+	+	49	1
+	+	50	0
+	+	55	1
+	+	56	0
+	+	56	27
+	+	61	38
+	+	56	24
+	+	57	17
+	+	25	0
+	+	31	25
+	+	39	2
+	+	40	1
+	+	38	1
+	+	61	0
+	+	53	1
+	+	54	0
+
+> ~/mbp2018-bridge-drv/README.md
+	*	1591127111	0
+	"	1	0
+
+> ~/macbook12-spi-driver/README.md
+	*	1591126958	0
+	"	35	0
+
+> ~/.Xresources
+	*	1591088606	0
+	"	2	1
+	^	2	2
+	.	2	1
+	+	11	0
+	+	1	1
+	+	2	0
+	+	1	6
+	+	2	10
+	+	1	0
+	+	2	2
+	+	1	1
+	+	2	1
+	+	1	1
+	+	2	0
+	+	1	0
+	+	2	1
+	+	1	1
+	+	2	0
+	+	1	0
+	+	2	1
+	+	1	1
+	+	2	0
+	+	1	0
+	+	2	1
+
+> ~/Documents/disken/dnf.scala
+	*	1590956014	0
+	"	1	0
+	^	56	1
+	.	56	1
+	+	16	0
+	+	15	56
+	+	21	181
+	+	10	49
+	+	11	27
+	+	15	73
+	+	21	102
+	+	23	19
+	+	24	2
+	+	23	18
+	+	26	2
+	+	23	24
+	+	24	6
+	+	25	14
+	+	24	30
+	+	25	16
+	+	24	33
+	+	25	25
+	+	24	34
+	+	56	0
+	+	55	1
+	+	51	42
+	+	55	0
+	+	31	48
+	+	51	76
+	+	51	23
+	+	51	1
+	+	51	21
+	+	51	83
+	+	51	76
+	+	51	60
+	+	51	24
+	+	51	58
+	+	51	1
+	+	51	32
+	+	51	60
+	+	51	81
+	+	51	17
+	+	51	5
+	+	51	4
+	+	51	9
+	+	51	68
+	+	51	52
+	+	51	11
+	+	51	4
+	+	51	43
+	+	51	5
+	+	51	2
+	+	51	30
+	+	51	20
+	+	51	8
+	+	51	2
+	+	51	3
+	+	51	15
+	+	51	72
+	+	51	41
+	+	51	52
+	+	51	35
+	+	51	25
+	+	51	54
+	+	51	7
+	+	51	0
+	+	51	2
+	+	51	49
+	+	54	4
+	+	52	13
+	+	53	0
+	+	51	103
+	+	32	0
+	+	40	47
+	+	31	51
+	+	40	42
+	+	44	83
+	+	45	66
+	+	48	16
+	+	45	60
+	+	44	48
+	+	40	47
+	+	48	58
+	+	45	67
+	+	44	84
+	+	45	58
+	+	44	78
+	+	37	22
+	+	38	47
+	+	39	35
+	+	40	12
+	+	41	0
+	+	42	0
+	+	43	0
+	+	44	0
+	+	45	0
+	+	46	0
+	+	47	0
+	+	48	0
+	+	49	4
+	+	50	2
+	+	56	1
+
+> ~/Documents/disken/bnf.scala
+	*	1590696862	0
+	"	1	0
+
+> ~/Documents/disken/bnf
+	*	1590696859	0
+	"	1	0
+
+> ~/zoom
+	*	1590682765	0
+	"	3	23
+	^	3	24
+	.	3	23
+	+	3	23
+
+> ~/Documents/dnf.scala
+	*	1590673294	0
+	"	9	0
+	^	7	14
+	.	7	13
+	+	4	50
+	+	4	45
+	+	4	21
+	+	4	48
+	+	4	43
+	+	4	50
+	+	2	23
+	+	4	46
+	+	2	27
+	+	2	32
+	+	4	49
+	+	4	51
+	+	1	11
+	+	9	0
+	+	4	50
+	+	4	0
+	+	2	34
+	+	2	0
+	+	2	34
+	+	3	0
+	+	4	52
+	+	2	0
+	+	2	43
+	+	2	0
+	+	4	51
+	+	8	0
+	+	4	50
+	+	5	1
+	+	8	0
+	+	5	69
+	+	2	0
+	+	5	20
+	+	2	0
+	+	5	86
+	+	7	13
+
+> ~/Documents/edaa40lab5/src/edaa40/lab5.clj
+	*	1590488783	0
+	"	227	0
+	^	226	27
+	.	226	27
+	+	175	7
+	+	177	26
+	+	178	0
+	+	180	2
+	+	181	9
+	+	183	1
+	+	184	1
+	+	185	1
+	+	184	2
+	+	186	1
+	+	185	2
+	+	187	1
+	+	188	15
+	+	188	108
+	+	189	0
+	+	188	1
+	+	188	9
+	+	188	54
+	+	179	0
+	+	190	1
+	+	199	0
+	+	190	0
+	+	218	0
+	+	219	0
+	+	220	0
+	+	221	0
+	+	221	7
+	+	221	11
+	+	226	0
+	+	227	0
+	+	228	0
+	+	229	0
+	+	230	0
+	+	231	0
+	+	221	11
+	+	221	7
+	+	221	8
+	+	223	0
+	+	224	57
+	+	223	4
+	+	224	3
+	+	221	7
+	+	223	0
+	+	239	0
+	+	240	0
+	+	241	0
+	+	242	0
+	+	244	0
+	+	243	0
+	+	244	0
+	+	253	0
+	+	255	0
+	+	253	4
+	+	255	0
+	+	256	0
+	+	257	0
+	+	258	0
+	+	259	0
+	+	260	0
+	+	261	0
+	+	254	0
+	+	253	0
+	+	246	66
+	+	245	14
+	+	246	66
+	+	246	9
+	+	246	19
+	+	246	37
+	+	252	0
+	+	246	54
+	+	246	2
+	+	246	0
+	+	246	41
+	+	246	43
+	+	246	2
+	+	246	20
+	+	246	21
+	+	246	12
+	+	246	0
+	+	247	1
+	+	246	42
+	+	248	24
+	+	249	51
+	+	249	54
+	+	250	0
+	+	250	52
+	+	251	2
+	+	246	37
+	+	249	3
+	+	250	42
+	+	249	42
+	+	289	0
+	+	290	0
+	+	291	0
+	+	125	0
+	+	90	10
+	+	91	8
+	+	226	27
+
+> ~/Downloads/lab5.clj
+	*	1590412555	0
+	"	252	0
+	^	149	5
+	.	149	4
+	+	149	4
+
+> /var/lib/connman/eduroam.config
+	*	1590409442	0
+	"	5	0
+	.	5	0
+	+	5	0
+
+> ~/Documents/edaa40lab5/src/edaa40/huffutil.clj
+	*	1590404798	0
+	"	1	0
+	^	149	0
+	.	149	0
+	+	149	0
+
+> ~/Documents/edaa40lab5/src/edaa40/huffutil
+	*	1590404296	0
+	"	1	0
+
+> ~/Downloads/Lab5/edaa40lab5/src/edaa40/lab5.clj
+	*	1590402929	0
+	"	119	0
+
+> ~/Downloads/edaa40lab5/src/edaa40/lab5.clj
+	*	1590402616	0
+	"	108	32
+
+> ~/server/eula.txt
+	*	1590351040	0
+	"	1	0
+
+> ~/.config/vifm/colors/Default.vifm
+	*	1590351009	0
+	"	1	32
+	^	81	93
+	.	59	0
+	+	65	0
+	+	59	0
+	+	66	0
+	+	61	0
+	+	59	0
+	+	49	0
+	+	59	0
+
+> ~/colortest
+	*	1590349946	0
+	"	37	0
+	^	38	3
+	.	38	2
+	+	1	4
+	+	1	0
+	+	2	0
+	+	38	2
+
+> ~/.config/termite/config
+	*	1590349225	0
+	"	4	0
+	^	5	16
+	.	5	15
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	1	0
+	+	3	0
+	+	1	12
+	+	3	12
+	+	4	13
+	+	5	8
+	+	6	7
+	+	7	8
+	+	8	8
+	+	9	8
+	+	10	8
+	+	11	8
+	+	12	8
+	+	13	8
+	+	14	8
+	+	15	9
+	+	16	9
+	+	17	9
+	+	18	9
+	+	19	9
+	+	20	9
+	+	21	9
+	+	1	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	21	0
+	+	1	7
+	+	2	19
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	3	0
+	+	2	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	2	0
+	+	5	15
+
+> ~/.config/termite/config_solarized
+	*	1590348914	0
+	"	1	0
+
+> ~/.config/termite/config_onedarkbg
+	*	1590348903	0
+	"	1	0
+
+> ~/.config/termite/config_manta
+	*	1590348895	0
+	"	1	0
+
+> ~/.config/awesome/rc.lua
+	*	1590348016	0
+	"	205	12
+	^	138	26
+	.	267	0
+	+	293	37
+	+	292	37
+	+	290	23
+	+	5	33
+	+	130	67
+	+	130	2
+	+	5	40
+	+	5	0
+	+	52	0
+	+	54	0
+	+	270	0
+	+	262	0
+	+	55	0
+	+	130	0
+	+	130	41
+	+	130	67
+	+	130	70
+	+	130	58
+	+	264	17
+	+	130	55
+	+	130	70
+	+	130	0
+	+	130	54
+	+	130	0
+	+	264	11
+	+	130	8
+	+	264	10
+	+	130	0
+	+	128	0
+	+	130	0
+	+	55	0
+	+	129	0
+	+	130	0
+	+	264	18
+	+	130	72
+	+	253	47
+	+	307	62
+	+	308	50
+	+	305	53
+	+	306	52
+	+	310	55
+	+	130	47
+	+	253	16
+	+	309	60
+	+	307	64
+	+	305	66
+	+	129	43
+	+	128	0
+	+	129	0
+	+	264	17
+	+	129	0
+	+	141	0
+	+	137	17
+	+	140	0
+	+	146	0
+	+	144	38
+	+	263	9
+	+	262	0
+	+	261	0
+	+	144	38
+	+	267	9
+	+	252	9
+	+	144	40
+	+	249	9
+	+	144	80
+	+	256	21
+	+	146	39
+	+	145	0
+	+	253	8
+	+	256	2
+	+	256	0
+	+	258	13
+	+	255	8
+	+	259	15
+	+	258	0
+	+	249	9
+	+	249	8
+	+	253	9
+	+	253	19
+	+	249	0
+	+	253	7
+	+	249	12
+	+	251	2
+	+	249	18
+	+	250	8
+	+	76	26
+	+	76	0
+	+	152	45
+	+	144	0
+	+	152	0
+	+	144	0
+	+	143	0
+	+	257	25
+	+	137	25
+	+	138	25
+	+	252	0
+	+	267	0
+	+	268	0
+	+	265	0
+	+	267	0
+
+> /usr/share/awesome/themes/default/theme.lua
+	*	1590347774	0
+	"	1	0
+
+> ~/.config/awesome/themes/default/theme.lua
+	*	1590347758	0
+	"	22	29
+	^	22	30
+	.	22	29
+	+	28	26
+	+	16	29
+	+	17	30
+	+	22	29
+
+> ~/.config/awesome/awesome-wm-widgets/volumebar-widget/volumebar.lua
+	*	1590346746	0
+	"	33	36
+
+> /usr/share/lua/5.3/pulseaudio_widget.lua
+	*	1590331447	0
+	"	93	17
+	^	93	18
+	.	93	17
+	+	93	17
+
+> /etc/pulse/default.pa
+	*	1590329129	0
+	"	102	0
+
+> ~/.config/awesome/awesome-wm-widgets/volume-widget/volume.lua
+	*	1590329058	0
+	"	172	30
+	^	79	29
+	.	79	0
+	+	84	19
+	+	79	0
+
+> ~/.config/awesome/awesome-wm-widgets/volume-widget/volume.lu
+	*	1590328643	0
+	"	1	0
+
+> ~/.config/awesome/awesome-wm-widgets/battery-widget/battery.lua
+	*	1590328613	0
+	"	68	8
+	^	60	50
+	.	60	0
+	+	83	0
+	+	60	0
+
+> .config/awesome/aweome-wm-widgets/volume-widget
+	*	1590327359	0
+	"	1	0
+
+> ~/.config/conky/conky.conf
+	*	1590325884	0
+	"	69	0
+	.	70	0
+	+	67	49
+	+	71	0
+	+	67	75
+	+	71	0
+	+	67	112
+	+	71	0
+	+	71	15
+	+	71	0
+	+	71	15
+	+	71	0
+	+	71	15
+	+	71	0
+	+	71	15
+	+	71	0
+	+	71	13
+	+	71	0
+	+	67	63
+	+	71	0
+	+	67	64
+	+	67	49
+	+	66	0
+	+	67	49
+	+	66	0
+	+	70	0
+	+	67	29
+	+	67	18
+	+	67	0
+	+	70	0
+	+	67	98
+	+	67	115
+	+	67	98
+	+	67	115
+	+	70	0
+	+	67	69
+	+	70	29
+	+	67	85
+	+	67	0
+	+	70	39
+	+	67	76
+	+	70	0
+	+	67	84
+	+	70	0
+	+	67	54
+	+	69	67
+	+	70	0
+	+	67	0
+	+	69	41
+	+	67	96
+	+	68	3
+	+	69	41
+	+	68	4
+	+	70	0
+	+	68	3
+	+	70	0
+	+	70	33
+	+	70	0
+	+	70	33
+	+	69	66
+	+	70	0
+
+> ~/.config/awesome/volumebar-widget/volumebar.lua
+	*	1590325866	0
+	"	86	0
+
+> ~/eduroam.conf
+	*	1590226865	0
+	"	1	0
+
+> ~/Documents/UPSproj/plot.R
+	*	1590054648	0
+	"	94	0
+	^	69	21
+	.	69	0
+	+	48	0
+	+	47	32
+	+	64	6
+	+	41	5
+	+	64	10
+	+	54	55
+	+	64	62
+	+	77	12
+	+	1	7
+	+	1	0
+	+	18	25
+	+	18	0
+	+	64	63
+	+	66	15
+	+	67	12
+	+	56	9
+	+	18	8
+	+	18	0
+	+	13	0
+	+	15	0
+	+	23	0
+	+	23	2
+	+	23	1
+	+	47	15
+	+	43	0
+	+	47	20
+	+	43	11
+	+	43	0
+	+	47	24
+	+	27	0
+	+	34	12
+	+	38	0
+	+	27	30
+	+	27	0
+	+	38	1
+	+	39	0
+	+	38	36
+	+	38	22
+	+	38	20
+	+	34	12
+	+	38	21
+	+	38	17
+	+	38	16
+	+	39	0
+	+	38	31
+	+	38	32
+	+	38	37
+	+	38	20
+	+	34	11
+	+	38	19
+	+	38	20
+	+	38	12
+	+	38	0
+	+	38	33
+	+	38	0
+	+	38	35
+	+	29	4
+	+	38	0
+	+	38	20
+	+	38	22
+	+	38	23
+	+	38	19
+	+	38	20
+	+	39	38
+	+	38	38
+	+	38	21
+	+	39	0
+	+	27	48
+	+	38	30
+	+	38	31
+	+	38	20
+	+	38	21
+	+	28	0
+	+	39	0
+	+	38	0
+	+	64	2
+	+	75	0
+	+	35	0
+	+	44	0
+	+	47	24
+	+	77	1
+	+	64	2
+	+	56	8
+	+	67	0
+	+	66	2
+	+	71	0
+	+	70	25
+	+	72	17
+	+	73	27
+	+	70	25
+	+	75	33
+	+	78	32
+	+	56	6
+	+	66	11
+	+	57	18
+	+	66	12
+	+	57	11
+	+	58	2
+	+	57	17
+	+	69	0
+
+> ~/Documents/edaa40lab4/src/edaa40/lab4.clj
+	*	1589882933	0
+	"	232	1
+	^	262	54
+	.	85	0
+	+	164	0
+	+	165	0
+	+	166	0
+	+	167	0
+	+	168	0
+	+	169	0
+	+	170	0
+	+	171	0
+	+	172	0
+	+	173	0
+	+	174	0
+	+	140	13
+	+	140	3
+	+	140	1
+	+	140	0
+	+	140	3
+	+	140	124
+	+	140	1
+	+	138	0
+	+	140	90
+	+	141	0
+	+	151	0
+	+	149	0
+	+	150	0
+	+	140	0
+	+	160	0
+	+	140	0
+	+	140	1
+	+	124	4
+	+	140	6
+	+	140	88
+	+	140	91
+	+	140	0
+	+	209	0
+	+	210	0
+	+	211	0
+	+	212	0
+	+	213	0
+	+	214	0
+	+	215	0
+	+	215	51
+	+	218	0
+	+	219	0
+	+	220	0
+	+	221	0
+	+	222	0
+	+	216	2
+	+	140	2
+	+	145	0
+	+	143	1
+	+	144	2
+	+	140	34
+	+	140	121
+	+	140	30
+	+	140	76
+	+	140	1
+	+	140	0
+	+	140	9
+	+	138	15
+	+	141	1
+	+	140	1
+	+	139	15
+	+	140	42
+	+	216	1
+	+	217	52
+	+	218	0
+	+	217	50
+	+	225	0
+	+	226	0
+	+	227	0
+	+	228	0
+	+	229	0
+	+	232	0
+	+	233	0
+	+	234	0
+	+	235	0
+	+	236	0
+	+	237	0
+	+	231	51
+	+	232	0
+	+	231	18
+	+	252	0
+	+	253	0
+	+	254	0
+	+	262	0
+	+	263	0
+	+	264	0
+	+	265	0
+	+	266	0
+	+	268	0
+	+	269	0
+	+	270	0
+	+	271	0
+	+	272	0
+	+	273	0
+	+	274	0
+	+	262	0
+	+	84	0
+	+	83	2
+	+	85	0
+
+> ~/Downloads/edaa40lab4/src/edaa40/lab4.clj
+	*	1589815001	0
+	"	253	0
+
+> ~/Documents/edaa40lab4/src/edaa40/core.clj
+	*	1589813029	0
+	"	264	0
+
+> ~/Documents/edaa40lab1/src/edaa40/lab1.clj
+	*	1589796952	0
+	"	64	0
+	^	330	0
+	.	331	0
+	+	85	0
+	+	82	1
+	+	83	28
+	+	91	0
+	+	92	0
+	+	93	0
+	+	93	1
+	+	94	0
+	+	95	0
+	+	100	0
+	+	96	0
+	+	100	0
+	+	101	0
+	+	102	0
+	+	103	0
+	+	104	0
+	+	105	0
+	+	106	0
+	+	96	51
+	+	98	15
+	+	99	24
+	+	99	39
+	+	139	0
+	+	140	0
+	+	141	0
+	+	142	0
+	+	143	0
+	+	144	2
+	+	144	24
+	+	144	3
+	+	148	0
+	+	149	0
+	+	144	23
+	+	146	41
+	+	163	0
+	+	164	0
+	+	165	0
+	+	166	0
+	+	167	0
+	+	168	0
+	+	168	30
+	+	172	0
+	+	173	0
+	+	174	0
+	+	175	0
+	+	176	0
+	+	171	27
+	+	171	0
+	+	191	0
+	+	192	0
+	+	192	31
+	+	192	32
+	+	194	0
+	+	192	31
+	+	194	4
+	+	196	0
+	+	199	0
+	+	200	0
+	+	201	0
+	+	202	0
+	+	203	0
+	+	170	0
+	+	197	0
+	+	198	21
+	+	204	0
+	+	205	0
+	+	206	0
+	+	206	32
+	+	208	0
+	+	208	4
+	+	210	0
+	+	211	0
+	+	212	0
+	+	212	22
+	+	214	0
+	+	215	0
+	+	218	0
+	+	219	0
+	+	220	0
+	+	221	0
+	+	222	0
+	+	215	1
+	+	216	63
+	+	308	0
+	+	309	0
+	+	310	0
+	+	310	3
+	+	311	0
+	+	312	0
+	+	313	0
+	+	315	0
+	+	316	0
+	+	317	0
+	+	318	0
+	+	319	0
+	+	320	0
+	+	321	0
+	+	314	13
+	+	331	0
+
+> /usr/lib/systemd/system/bluetooth.service
+	*	1589749306	0
+	"	18	8
+
+> ~/Documents/UPSproj/ListSorter.java
+	*	1589452746	0
+	"	9	94
+	^	9	95
+	.	9	94
+	+	2	53
+	+	2	81
+	+	2	53
+	+	2	78
+	+	17	0
+	+	2	94
+	+	2	53
+	+	2	146
+	+	2	65
+	+	2	116
+	+	2	349
+	+	17	25
+	+	2	150
+	+	2	79
+	+	2	151
+	+	2	81
+	+	2	53
+	+	17	0
+	+	2	285
+	+	2	272
+	+	2	297
+	+	2	322
+	+	2	339
+	+	2	294
+	+	2	309
+	+	2	330
+	+	2	320
+	+	1	0
+	+	2	41
+	+	2	23
+	+	2	41
+	+	17	5
+	+	17	6
+	+	2	45
+	+	3	0
+	+	2	38
+	+	3	37
+	+	6	0
+	+	5	1
+	+	6	16
+	+	5	31
+	+	6	22
+	+	5	21
+	+	11	37
+	+	12	24
+	+	17	31
+	+	17	20
+	+	7	53
+	+	13	6
+	+	7	26
+	+	2	32
+	+	5	27
+	+	2	37
+	+	5	26
+	+	7	31
+	+	11	23
+	+	17	0
+	+	17	15
+	+	17	26
+	+	17	0
+	+	16	3
+	+	19	53
+	+	24	0
+	+	17	0
+	+	13	8
+	+	14	0
+	+	13	6
+	+	14	4
+	+	15	3
+	+	7	0
+	+	9	94
+
+> ~/Documents/UPSproj/Memory.java
+	*	1589452684	0
+	"	40	8
+	^	60	59
+	.	60	58
+	+	60	29
+	+	38	26
+	+	18	44
+	+	19	23
+	+	62	1
+	+	43	0
+	+	44	0
+	+	45	5
+	+	46	9
+	+	44	0
+	+	11	19
+	+	60	14
+	+	18	16
+	+	19	23
+	+	18	53
+	+	60	58
+
+> ~/Documents/edaa40lab3/src/edaa40/lab3.clj
+	*	1589206601	0
+	"	396	0
+	^	193	0
+	.	190	0
+	+	78	0
+	+	79	0
+	+	80	0
+	+	81	0
+	+	82	0
+	+	83	0
+	+	84	0
+	+	85	0
+	+	86	0
+	+	85	1
+	+	86	1
+	+	91	0
+	+	92	0
+	+	95	0
+	+	93	2
+	+	95	0
+	+	96	0
+	+	96	85
+	+	96	84
+	+	90	12
+	+	117	0
+	+	93	0
+	+	90	0
+	+	90	39
+	+	100	0
+	+	101	0
+	+	102	0
+	+	103	0
+	+	104	0
+	+	105	0
+	+	109	0
+	+	110	0
+	+	111	0
+	+	112	0
+	+	108	0
+	+	109	0
+	+	108	27
+	+	127	0
+	+	128	0
+	+	129	0
+	+	130	0
+	+	131	0
+	+	132	0
+	+	133	0
+	+	143	0
+	+	144	0
+	+	142	29
+	+	145	0
+	+	146	0
+	+	147	0
+	+	142	40
+	+	186	0
+	+	187	0
+	+	187	1
+	+	189	0
+	+	190	0
+
+> ~/.bash_profile
+	*	1588692780	0
+	"	1	0
+	.	8	0
+	+	11	0
+	+	7	0
+	+	10	1
+	+	7	0
+	+	10	0
+	+	7	0
+	+	8	0
+
+> ~/.xinitrc
+	*	1588692730	0
+	"	4	0
+	^	4	0
+	.	5	0
+	+	1	25
+	+	4	2
+	+	1	11
+	+	4	32
+	+	4	22
+	+	4	2
+	+	4	30
+	+	4	28
+	+	4	17
+	+	5	0
+	+	4	30
+	+	4	25
+	+	4	2
+	+	4	0
+	+	4	4
+	+	1	8
+	+	4	0
+	+	5	0
+
+> ~/.bashrc
+	*	1588692677	0
+	"	1	0
+
+> ~/.bash_rc
+	*	1588692671	0
+	"	1	0
+
+> ~/Documents/edaa40lab2/src/edaa40/lab2.clj
+	*	1588670942	0
+	"	68	1
+	^	141	26
+	.	141	25
+	+	89	0
+	+	90	0
+	+	90	59
+	+	92	0
+	+	92	12
+	+	95	0
+	+	96	0
+	+	97	0
+	+	98	0
+	+	94	32
+	+	102	0
+	+	103	0
+	+	104	0
+	+	105	0
+	+	106	0
+	+	107	0
+	+	108	44
+	+	107	2
+	+	108	44
+	+	113	0
+	+	111	1
+	+	113	0
+	+	110	35
+	+	117	0
+	+	118	0
+	+	118	1
+	+	118	0
+	+	119	0
+	+	119	37
+	+	121	0
+	+	121	12
+	+	129	0
+	+	129	1
+	+	130	0
+	+	129	0
+	+	126	33
+	+	110	27
+	+	133	0
+	+	134	0
+	+	135	0
+	+	136	0
+	+	137	0
+	+	138	0
+	+	138	14
+	+	140	0
+	+	150	0
+	+	141	24
+	+	141	46
+	+	141	23
+	+	141	46
+	+	141	72
+	+	141	25
+	+	141	27
+	+	141	45
+	+	143	1
+	+	142	1
+	+	143	1
+	+	141	10
+	+	143	38
+	+	146	18
+	+	148	1
+	+	143	1
+	+	146	2
+	+	148	1
+	+	146	3
+	+	148	3
+	+	149	1
+	+	141	12
+	+	146	3
+	+	143	7
+	+	146	27
+	+	146	0
+	+	143	45
+	+	145	8
+	+	143	53
+	+	145	0
+	+	141	0
+	+	143	45
+	+	144	24
+	+	145	3
+	+	147	3
+	+	146	3
+	+	147	3
+	+	145	13
+	+	141	10
+	+	126	14
+	+	124	25
+	+	125	22
+	+	126	20
+	+	127	3
+	+	128	0
+	+	126	5
+	+	124	22
+	+	144	28
+	+	125	18
+	+	126	17
+	+	125	18
+	+	126	5
+	+	141	25
+
+> ~/Documents/amoebas/src/amoebas/competition2020/tournament.clj
+	*	1588626753	0
+	"	6	12
+	^	6	13
+	.	6	13
+	+	5	1
+	+	7	0
+	+	7	70
+	+	7	93
+	+	7	0
+	+	6	17
+	+	19	12
+	+	29	26
+	+	3	7
+	+	6	13
+
+> ~/Documents/amoebas/src/lchaim/core.clj
+	*	1588626532	0
+	"	1	0
+	^	1	9
+	.	6	10
+	+	77	0
+	+	77	25
+	+	77	4
+	+	24	38
+	+	38	38
+	+	52	38
+	+	66	38
+	+	22	13
+	+	36	13
+	+	50	13
+	+	64	13
+	+	4	30
+	+	5	38
+	+	77	0
+	+	2	32
+	+	4	0
+	+	5	0
+	+	4	0
+	+	2	0
+	+	10	7
+	+	24	38
+	+	38	38
+	+	52	38
+	+	66	38
+	+	10	20
+	+	19	2
+	+	2	34
+	+	19	38
+	+	11	1
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	24	40
+	+	24	39
+	+	35	1
+	+	35	0
+	+	35	2
+	+	35	93
+	+	35	0
+	+	35	2
+	+	35	3
+	+	35	94
+	+	35	185
+	+	35	0
+	+	35	2
+	+	35	3
+	+	35	2
+	+	35	1
+	+	35	0
+	+	33	0
+	+	25	2
+	+	33	0
+	+	38	1
+	+	47	0
+	+	52	1
+	+	61	0
+	+	66	1
+	+	33	0
+	+	9	1
+	+	33	0
+	+	13	13
+	+	14	14
+	+	15	13
+	+	16	14
+	+	17	13
+	+	18	13
+	+	13	14
+	+	33	0
+	+	38	1
+	+	47	0
+	+	52	1
+	+	61	0
+	+	66	1
+	+	33	0
+	+	14	15
+	+	15	12
+	+	17	12
+	+	33	0
+	+	26	0
+	+	39	1
+	+	40	0
+	+	53	1
+	+	54	0
+	+	67	1
+	+	68	0
+	+	66	40
+	+	52	40
+	+	38	40
+	+	24	39
+	+	38	39
+	+	52	39
+	+	66	39
+	+	6	10
+
+> /etc/tlp.conf
+	*	1588283546	0
+	"	102	0
+
+> /boot/grub/grub.cfg
+	*	1588280407	0
+	"	162	29
+
+> ~/kbdBrightnessCtrl/mon_brightness.cpp
+	*	1588258157	0
+	"	31	0
+	^	31	0
+	.	36	46
+	+	10	17
+	+	11	58
+	+	12	54
+	+	35	76
+	+	36	46
+
+> ~/kbdBrightnessCtrl/kbd_brightness.cpp
+	*	1588258035	0
+	"	10	1
+	^	114	36
+	.	114	35
+	+	102	0
+	+	3	17
+	+	81	14
+	+	102	17
+	+	102	9
+	+	102	31
+	+	102	19
+	+	10	0
+	+	102	44
+	+	102	35
+	+	102	4
+	+	102	3
+	+	102	28
+	+	10	81
+	+	12	60
+	+	102	0
+	+	102	23
+	+	103	8
+	+	102	3
+	+	117	0
+	+	106	3
+	+	107	42
+	+	111	24
+	+	114	75
+	+	107	34
+	+	113	2
+	+	114	72
+	+	114	83
+	+	114	87
+	+	15	82
+	+	16	1
+	+	102	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	24	0
+	+	23	0
+	+	26	0
+	+	25	0
+	+	27	0
+	+	31	1
+	+	26	35
+	+	18	0
+	+	26	21
+	+	27	45
+	+	30	15
+	+	26	8
+	+	30	12
+	+	23	9
+	+	26	37
+	+	26	0
+	+	34	0
+	+	15	6
+	+	101	9
+	+	102	0
+	+	101	70
+	+	102	19
+	+	102	4
+	+	102	0
+	+	114	72
+	+	114	31
+	+	114	72
+	+	114	75
+	+	114	91
+	+	116	8
+	+	114	72
+	+	114	73
+	+	114	71
+	+	102	0
+	+	132	0
+	+	133	0
+	+	135	0
+	+	134	0
+	+	133	16
+	+	135	12
+	+	137	13
+	+	139	9
+	+	3	18
+	+	1	19
+	+	3	0
+	+	10	28
+	+	2	10
+	+	3	0
+	+	2	0
+	+	23	7
+	+	36	69
+	+	35	55
+	+	36	36
+	+	43	12
+	+	75	3
+	+	96	3
+	+	95	3
+	+	96	4
+	+	133	7
+	+	27	58
+	+	101	34
+	+	114	35
+
+> /usr/share/X11/xorg.conf.d/10-amdgpu.conf
+	*	1588193714	0
+	"	4	2
+	.	4	0
+	+	4	0
+
+> /usr/local/bin/kbd_brightness
+	*	1588186919	0
+	"	1	0
+
+> /usr/local/kbd_brightness
+	*	1588186898	0
+	"	1	0
+
+> ~/kbdBrightnessCtrl/kbd_brightness
+	*	1588186884	0
+	"	1	0
+
+> ~/src/lchaim/core.clj
+	*	1588172896	0
+	"	31	8
+
+> ~/.vimrc
+	*	1588166094	0
+	"	8	22
+	^	8	23
+	.	8	22
+	+	1	17
+	+	16	20
+	+	39	18
+	+	17	20
+	+	35	3
+	+	36	32
+	+	10	11
+	+	11	0
+	+	14	15
+	+	3	21
+	+	1	17
+	+	4	16
+	+	5	22
+	+	8	22
+
+> ~/kbdBrightnessCtrl/main.cpp
+	*	1588164438	0
+	"	1	0
+
+> ~/Documents/amoebas/src/lchaim/amoebas.clj
+	*	1588095979	0
+	"	1	0
+	^	31	7
+	.	33	6
+	+	45	11
+	+	49	3
+	+	49	0
+	+	46	4
+	+	46	0
+	+	48	0
+	+	45	0
+	+	9	0
+	+	49	0
+	+	45	19
+	+	45	28
+	+	45	0
+	+	44	0
+	+	43	5
+	+	43	1
+	+	10	41
+	+	10	42
+	+	11	1
+	+	11	0
+	+	12	2
+	+	13	3
+	+	14	3
+	+	20	3
+	+	26	3
+	+	35	3
+	+	37	2
+	+	37	7
+	+	37	11
+	+	9	0
+	+	10	0
+	+	46	6
+	+	49	31
+	+	51	1
+	+	52	1
+	+	53	1
+	+	54	1
+	+	55	0
+	+	56	0
+	+	56	38
+	+	57	0
+	+	11	10
+	+	37	8
+	+	37	9
+	+	43	0
+	+	42	1
+	+	11	6
+	+	38	1
+	+	38	3
+	+	39	0
+	+	40	0
+	+	41	0
+	+	37	27
+	+	7	16
+	+	39	26
+	+	37	0
+	+	39	26
+	+	7	1
+	+	8	0
+	+	26	43
+	+	31	4
+	+	29	26
+	+	30	21
+	+	31	46
+	+	34	5
+	+	29	5
+	+	30	6
+	+	31	6
+	+	32	5
+	+	34	5
+	+	36	26
+	+	51	0
+	+	39	26
+	+	20	48
+	+	23	6
+	+	22	22
+	+	23	70
+	+	3	1
+	+	4	0
+	+	3	1
+	+	23	68
+	+	14	43
+	+	17	42
+	+	16	21
+	+	25	6
+	+	19	6
+	+	3	1
+	+	4	0
+	+	2	47
+	+	29	31
+	+	27	10
+	+	29	27
+	+	28	22
+	+	29	0
+	+	30	0
+	+	31	0
+	+	32	8
+	+	33	6
+	+	27	6
+	+	28	7
+	+	33	6
+
+> ~/Documents/amoebas/src/main/weight0.clj
+	*	1588085652	0
+	"	11	3
+	^	12	19
+	.	12	18
+	+	2	19
+	+	8	3
+	+	15	0
+	+	9	2
+	+	16	0
+	+	15	0
+	+	10	59
+	+	11	59
+	+	12	2
+	+	9	2
+	+	10	2
+	+	11	2
+	+	12	2
+	+	9	13
+	+	10	13
+	+	11	13
+	+	12	59
+	+	13	1
+	+	7	17
+	+	6	17
+	+	7	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	3
+	+	14	1
+	+	7	8
+	+	8	5
+	+	9	5
+	+	10	5
+	+	11	5
+	+	12	5
+	+	11	0
+	+	12	18
+
+> ~/Documents/amoebas/src/amoebas/examples.clj
+	*	1588084672	0
+	"	314	0
+	.	542	0
+	+	9	0
+	+	9	6
+	+	7	2
+	+	9	0
+	+	7	3
+	+	7	2
+	+	7	12
+	+	7	27
+	+	9	0
+	+	7	2
+	+	7	23
+	+	7	2
+	+	7	6
+	+	7	3
+	+	7	2
+	+	7	14
+	+	7	2
+	+	7	3
+	+	7	35
+	+	7	3
+	+	7	2
+	+	7	73
+	+	7	2
+	+	7	43
+	+	7	20
+	+	7	2
+	+	7	6
+	+	7	2
+	+	7	13
+	+	7	35
+	+	7	2
+	+	7	7
+	+	7	24
+	+	7	2
+	+	7	42
+	+	7	3
+	+	7	8
+	+	7	27
+	+	7	31
+	+	7	21
+	+	7	37
+	+	7	21
+	+	7	2
+	+	7	8
+	+	7	38
+	+	7	41
+	+	7	4
+	+	7	6
+	+	7	27
+	+	7	2
+	+	7	24
+	+	7	23
+	+	7	28
+	+	7	18
+	+	7	2
+	+	548	1
+	+	549	0
+	+	549	1
+	+	7	2
+	+	9	0
+	+	7	2
+	+	8	0
+	+	549	0
+	+	548	0
+	+	542	0
+
+> ~/Documents/amoebas/src/amoebas/lib.clj
+	*	1588084326	0
+	"	140	4
+
+> ~/Documents/amoebas/src/main/amoebas.clj
+	*	1588083951	0
+	"	1	0
+
+> ~/Documents/amoebas/asd
+	*	1588078297	0
+	"	2	0
+	^	2	0
+	.	1	331
+	+	1	331
+
+> ~/Documents/amoebas/project.clj
+	*	1588076134	0
+	"	8	19
+	^	8	20
+	.	8	19
+	+	7	39
+	+	8	19
+
+> src/main/weight0.clj
+	*	1588076060	0
+	"	7	0
+	^	7	1
+	.	6	55
+	+	3	1
+	+	6	0
+	+	5	14
+	+	7	0
+	+	6	55
+
+> ~/Documents/amoebas/src/amoebas/run.clj
+	*	1588024141	0
+	"	1	12
+
+> ~/Documents/amoebas/src/amoebas/defs.clj
+	*	1588023624	0
+	"	1	0
+
+> ~/Documents/amoebas/src/amoebas/-t examples.clj
+	*	1588021226	0
+	"	1	0
+
+> ~/Documents/amoebas/src/amoebas/core.clj
+	*	1588021037	0
+	"	1	0
+
+> ~/mbp2018-bridge-drv/Makefile
+	*	1588016770	0
+	"	8	0
+	^	9	0
+	.	9	0
+	+	9	23
+	+	13	28
+	+	16	27
+	+	9	0
+	+	10	0
+	+	9	0
+
+> ~/.cache/yay/macbook12-spi-driver-dkms/PKGBUILD
+	*	1588011434	0
+	"	15	79
+	^	15	80
+	.	15	79
+	+	15	79
+
+> ~/.local/share/qutebrowser/sessions/_autosave.yml
+	*	1588006391	0
+	"	1	0
+
+> ~/.config/qutebrowser/issy/issy.html
+	*	1588005957	0
+	"	45	6
+	^	45	7
+	.	45	7
+	+	6	0
+	+	5	64
+	+	6	61
+	+	7	45
+	+	45	7
+
+> ~/Documents/amoebas/src/amoebas/lchaim.clj
+	*	1587987478	0
+	"	3	0
+	.	4	0
+	+	2	64
+	+	4	0
+	+	2	0
+	+	1	17
+	+	5	0
+	+	5	1
+	+	5	0
+	+	5	27
+	+	5	0
+	+	4	0
+
+> ~/Documents/amoebas/src7
+	*	1587986297	0
+	"	1	0
+
+> ~/Documents/UPSproj/data.txt
+	*	1587658069	0
+	"	1	0
+	^	7	3
+	.	7	2
+	+	8	0
+	+	7	2
+
+> ~/Documents/UPSproj/Lab.java
+	*	1587646016	0
+	"	66	0
+	^	66	1
+	.	66	1
+	+	66	0
+	+	38	27
+	+	46	0
+	+	30	16
+	+	31	0
+	+	42	0
+	+	43	0
+	+	47	0
+	+	45	0
+	+	47	11
+	+	46	2
+	+	47	0
+	+	38	27
+	+	47	0
+	+	38	29
+	+	62	0
+	+	10	0
+	+	38	27
+	+	46	30
+	+	48	32
+	+	46	54
+	+	48	12
+	+	49	2
+	+	46	0
+	+	38	29
+	+	66	1
+
+> ~/Documents/UPSproj/Lab.cpp
+	*	1587645868	0
+	"	1	0
+
+> ~/data.txt
+	*	1587645380	0
+	"	2	0
+	^	2	0
+	.	1	2
+	+	1	2
+
+> ~/Documents/UPSproj/c++10.txt
+	*	1587638263	0
+	"	1	0
+
+> ~/eduroam-linux-Lund_University.py
+	*	1587633779	0
+	"	324	23
+	^	933	0
+	.	949	0
+	+	949	0
+
+> ~/.config/luakit/issy/issy.html
+	*	1587590441	0
+	"	1	0
+	^	7	36
+	.	7	14
+	+	6	62
+	+	5	65
+	+	7	14
+
+> /usr/share/luakit/lib/newtab_chrome.lua
+	*	1587589829	0
+	"	79	0
+
+> ~/.config/luakit/issy/css/style.css
+	*	1587588477	0
+	"	148	1
+	^	122	20
+	.	122	19
+	+	10	19
+	+	10	0
+	+	34	19
+	+	34	0
+	+	105	19
+	+	58	19
+	+	74	19
+	+	122	19
+
+> ~/.config/luakit/userconf.lua
+	*	1587587494	0
+	"	24	72
+	^	24	73
+	.	24	72
+	+	1	30
+	+	21	2
+	+	25	61
+	+	25	45
+	+	25	62
+	+	27	44
+	+	26	34
+	+	27	29
+	+	25	29
+	+	27	29
+	+	25	0
+	+	26	0
+	+	24	72
+
+> ~/Documents/UPSproj/ListSorter.
+	*	1587564202	0
+	"	1	0
+
+> /tmp/vifm.cmdline_925929_00
+	*	1587542256	0
+	"	1	0
+	^	1	0
+	.	2	0
+	+	1	0
+	+	2	0
+
+> /tmp/vifm.cmdline_19522192_00
+	*	1587540969	0
+	"	1	0
+	^	1	0
+	.	2	0
+	+	2	0

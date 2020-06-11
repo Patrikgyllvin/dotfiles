@@ -1,0 +1,24 @@
+exit
+station wlan0 connect eduroam
+exit
+station wlan0 show
+station wlan0 scan
+station wlan0 connect Gyllvin
+exit
+station wlan0 connect Gyllvbin
+station wlan0 connect Gyllvin
+exit
+station wlan0 connect Gyllvin
+exit
+station wlan0 connect eduroam
+exit
+station wlan0 connect eduroam
+exit
+station wlan0 connect eduroam
+eix
+exit
+station wlan0 connect eduroam
+exit
+station wlan0 connect
+station wlan0 connect eduroam
+exit

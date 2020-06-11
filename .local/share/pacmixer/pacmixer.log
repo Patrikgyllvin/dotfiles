@@ -1,0 +1,114 @@
+[2020-03-31 14:49:22](src/backend.c:175):B:server state changed to 1
+[2020-03-31 14:49:22](src/backend.c:175):B:server state changed to 5
+[2020-03-31 14:57:11](src/backend.c:175):B:server state changed to 1
+[2020-03-31 14:57:11](src/backend.c:175):B:server state changed to 5
+[2020-03-31 15:12:53](src/backend.c:175):B:server state changed to 1
+[2020-03-31 15:12:53](src/backend.c:175):B:server state changed to 2
+[2020-03-31 15:12:53](src/backend.c:175):B:server state changed to 3
+[2020-03-31 15:12:53](src/backend.c:175):B:server state changed to 4
+[2020-03-31 15:12:53](src/middleware.m:89):M:volumeChanged0_0_0 observer added
+[2020-03-31 15:12:53](src/middleware.m:89):M:volumeChanged0_0_1 observer added
+[2020-03-31 15:12:53](src/middleware.m:100):M:muteChanged0_0 observer added
+[2020-03-31 15:12:53](src/middleware.m:101):M:0:Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X] Digital Stereo (HDMI):alsa_output.pci-0000_01_00.1.hdmi-stereo received
+[2020-03-31 15:12:53](src/main.mm:83):D:0:Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X] Digital Stereo (HDMI) passed
+[2020-03-31 15:12:53](src/widgets/widget.mm:43):F:0:Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X] Digital Stereo (HDMI) posted
+[2020-03-31 15:12:53](src/widgets/widget.mm:159):F:0:Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X] Digital Stereo (HDMI) options added
+[2020-03-31 15:12:53](src/middleware.m:141):M:volumeChanged0_0 observer added
+[2020-03-31 15:12:53](src/middleware.m:89):M:volumeChanged1_0_0 observer added
+[2020-03-31 15:12:53](src/middleware.m:89):M:volumeChanged1_0_1 observer added
+[2020-03-31 15:12:53](src/middleware.m:100):M:muteChanged1_0 observer added
+[2020-03-31 15:12:53](src/middleware.m:101):M:1:ThinkPad Thunderbolt 3 Dock USB Audio Analog stereo:alsa_output.usb-Lenovo_ThinkPad_Thunderbolt_3_Dock_USB_Audio_000000000000-00.analog-stereo received
+[2020-03-31 15:12:53](src/main.mm:83):D:1:ThinkPad Thunderbolt 3 Dock USB Audio Analog stereo passed
+[2020-03-31 15:12:53](src/widgets/widget.mm:43):F:1:ThinkPad Thunderbolt 3 Dock USB Audio Analog stereo posted
+[2020-03-31 15:12:53](src/widgets/widget.mm:159):F:1:ThinkPad Thunderbolt 3 Dock USB Audio Analog stereo options added
+[2020-03-31 15:12:53](src/middleware.m:141):M:volumeChanged1_0 observer added
+[2020-03-31 15:12:53](src/middleware.m:89):M:volumeChanged2_0_0 observer added
+[2020-03-31 15:12:53](src/middleware.m:89):M:volumeChanged2_0_1 observer added
+[2020-03-31 15:12:53](src/middleware.m:89):M:volumeChanged2_0_2 observer added
+[2020-03-31 15:12:53](src/middleware.m:89):M:volumeChanged2_0_3 observer added
+[2020-03-31 15:12:53](src/middleware.m:100):M:muteChanged2_0 observer added
+[2020-03-31 15:12:53](src/middleware.m:101):M:2:Scarlett 2i4 USB Analog surround 4.0:alsa_output.usb-Focusrite_Scarlett_2i4_USB-00.analog-surround-40 received
+[2020-03-31 15:12:53](src/main.mm:83):D:2:Scarlett 2i4 USB Analog surround 4.0 passed
+[2020-03-31 15:12:53](src/widgets/widget.mm:43):F:2:Scarlett 2i4 USB Analog surround 4.0 posted
+[2020-03-31 15:12:53](src/widgets/widget.mm:159):F:2:Scarlett 2i4 USB Analog surround 4.0 options added
+[2020-03-31 15:12:53](src/middleware.m:141):M:volumeChanged2_0 observer added
+[2020-03-31 15:12:53](src/middleware.m:89):M:volumeChanged3_0_0 observer added
+[2020-03-31 15:12:53](src/middleware.m:89):M:volumeChanged3_0_1 observer added
+[2020-03-31 15:12:53](src/middleware.m:89):M:volumeChanged3_0_2 observer added
+[2020-03-31 15:12:53](src/middleware.m:89):M:volumeChanged3_0_3 observer added
+[2020-03-31 15:12:53](src/middleware.m:100):M:muteChanged3_0 observer added
+[2020-03-31 15:12:53](src/middleware.m:101):M:3:Apple Audio Device Multikanal:alsa_output.pci-0000_02_00.3.multichannel-output received
+[2020-03-31 15:12:53](src/main.mm:83):D:3:Apple Audio Device Multikanal passed
+[2020-03-31 15:12:53](src/widgets/widget.mm:43):F:3:Apple Audio Device Multikanal posted
+[2020-03-31 15:12:53](src/widgets/widget.mm:159):F:3:Apple Audio Device Multikanal options added
+[2020-03-31 15:12:53](src/middleware.m:141):M:volumeChanged3_0 observer added
+[2020-03-31 15:12:53](src/middleware.m:89):M:volumeChanged0_2_0 observer added
+[2020-03-31 15:12:53](src/middleware.m:89):M:volumeChanged0_2_1 observer added
+[2020-03-31 15:12:53](src/middleware.m:100):M:muteChanged0_2 observer added
+[2020-03-31 15:12:53](src/middleware.m:101):M:0:Monitor of Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X] Digital Stereo (HDMI):alsa_output.pci-0000_01_00.1.hdmi-stereo.monitor received
+[2020-03-31 15:12:53](src/main.mm:83):D:0:Monitor of Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X] Digital Stereo (HDMI) passed
+[2020-03-31 15:12:53](src/widgets/widget.mm:43):F:0:Monitor of Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X] Digital Stereo (HDMI) posted
+[2020-03-31 15:12:53](src/middleware.m:141):M:volumeChanged0_2 observer added
+[2020-03-31 15:12:53](src/middleware.m:89):M:volumeChanged1_2_0 observer added
+[2020-03-31 15:12:53](src/middleware.m:89):M:volumeChanged1_2_1 observer added
+[2020-03-31 15:12:53](src/middleware.m:100):M:muteChanged1_2 observer added
+[2020-03-31 15:12:53](src/middleware.m:101):M:1:Monitor of ThinkPad Thunderbolt 3 Dock USB Audio Analog stereo:alsa_output.usb-Lenovo_ThinkPad_Thunderbolt_3_Dock_USB_Audio_000000000000-00.analog-stereo.monitor received
+[2020-03-31 15:12:53](src/main.mm:83):D:1:Monitor of ThinkPad Thunderbolt 3 Dock USB Audio Analog stereo passed
+[2020-03-31 15:12:53](src/widgets/widget.mm:43):F:1:Monitor of ThinkPad Thunderbolt 3 Dock USB Audio Analog stereo posted
+[2020-03-31 15:12:53](src/middleware.m:141):M:volumeChanged1_2 observer added
+[2020-03-31 15:12:53](src/middleware.m:89):M:volumeChanged2_2_0 observer added
+[2020-03-31 15:12:53](src/middleware.m:100):M:muteChanged2_2 observer added
+[2020-03-31 15:12:53](src/middleware.m:101):M:2:ThinkPad Thunderbolt 3 Dock USB Audio Mono:alsa_input.usb-Lenovo_ThinkPad_Thunderbolt_3_Dock_USB_Audio_000000000000-00.mono-fallback received
+[2020-03-31 15:12:53](src/main.mm:83):D:2:ThinkPad Thunderbolt 3 Dock USB Audio Mono passed
+[2020-03-31 15:12:53](src/widgets/widget.mm:43):F:2:ThinkPad Thunderbolt 3 Dock USB Audio Mono posted
+[2020-03-31 15:12:53](src/widgets/widget.mm:159):F:2:ThinkPad Thunderbolt 3 Dock USB Audio Mono options added
+[2020-03-31 15:12:53](src/middleware.m:141):M:volumeChanged2_2 observer added
+[2020-03-31 15:12:53](src/middleware.m:89):M:volumeChanged3_2_0 observer added
+[2020-03-31 15:12:53](src/middleware.m:89):M:volumeChanged3_2_1 observer added
+[2020-03-31 15:12:53](src/middleware.m:89):M:volumeChanged3_2_2 observer added
+[2020-03-31 15:12:53](src/middleware.m:89):M:volumeChanged3_2_3 observer added
+[2020-03-31 15:12:53](src/middleware.m:100):M:muteChanged3_2 observer added
+[2020-03-31 15:12:53](src/middleware.m:101):M:3:Monitor of Scarlett 2i4 USB Analog surround 4.0:alsa_output.usb-Focusrite_Scarlett_2i4_USB-00.analog-surround-40.monitor received
+[2020-03-31 15:12:53](src/main.mm:83):D:3:Monitor of Scarlett 2i4 USB Analog surround 4.0 passed
+[2020-03-31 15:12:53](src/widgets/widget.mm:43):F:3:Monitor of Scarlett 2i4 USB Analog surround 4.0 posted
+[2020-03-31 15:12:53](src/middleware.m:141):M:volumeChanged3_2 observer added
+[2020-03-31 15:12:53](src/middleware.m:89):M:volumeChanged4_2_0 observer added
+[2020-03-31 15:12:53](src/middleware.m:89):M:volumeChanged4_2_1 observer added
+[2020-03-31 15:12:53](src/middleware.m:100):M:muteChanged4_2 observer added
+[2020-03-31 15:12:53](src/middleware.m:101):M:4:Scarlett 2i4 USB Analog stereo:alsa_input.usb-Focusrite_Scarlett_2i4_USB-00.analog-stereo received
+[2020-03-31 15:12:53](src/main.mm:83):D:4:Scarlett 2i4 USB Analog stereo passed
+[2020-03-31 15:12:53](src/widgets/widget.mm:43):F:4:Scarlett 2i4 USB Analog stereo posted
+[2020-03-31 15:12:53](src/widgets/widget.mm:159):F:4:Scarlett 2i4 USB Analog stereo options added
+[2020-03-31 15:12:53](src/middleware.m:141):M:volumeChanged4_2 observer added
+[2020-03-31 15:12:53](src/middleware.m:89):M:volumeChanged5_2_0 observer added
+[2020-03-31 15:12:53](src/middleware.m:89):M:volumeChanged5_2_1 observer added
+[2020-03-31 15:12:53](src/middleware.m:89):M:volumeChanged5_2_2 observer added
+[2020-03-31 15:12:53](src/middleware.m:89):M:volumeChanged5_2_3 observer added
+[2020-03-31 15:12:53](src/middleware.m:100):M:muteChanged5_2 observer added
+[2020-03-31 15:12:53](src/middleware.m:101):M:5:Monitor of Apple Audio Device Multikanal:alsa_output.pci-0000_02_00.3.multichannel-output.monitor received
+[2020-03-31 15:12:53](src/main.mm:83):D:5:Monitor of Apple Audio Device Multikanal passed
+[2020-03-31 15:12:53](src/widgets/widget.mm:43):F:5:Monitor of Apple Audio Device Multikanal posted
+[2020-03-31 15:12:53](src/middleware.m:141):M:volumeChanged5_2 observer added
+[2020-03-31 15:12:53](src/main.mm:83):D:0:Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X] passed
+[2020-03-31 15:12:53](src/middleware.m:141):M:activeOptionChanged0_4 observer added
+[2020-03-31 15:12:53](src/main.mm:83):D:1:ThinkPad Thunderbolt 3 Dock USB Audio passed
+[2020-03-31 15:12:53](src/middleware.m:141):M:activeOptionChanged1_4 observer added
+[2020-03-31 15:12:53](src/main.mm:83):D:2:Scarlett 2i4 USB passed
+[2020-03-31 15:12:53](src/middleware.m:141):M:activeOptionChanged2_4 observer added
+[2020-03-31 15:12:53](src/main.mm:83):D:3:Apple Audio Device passed
+[2020-03-31 15:12:53](src/middleware.m:141):M:activeOptionChanged3_4 observer added
+[2020-03-31 15:12:53](src/widgets/widget.mm:211):F:0:Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X] Digital Stereo (HDMI) set as default
+[2020-03-31 15:12:53](src/widgets/widget.mm:211):F:1:ThinkPad Thunderbolt 3 Dock USB Audio Analog stereo set as default
+[2020-03-31 15:12:53](src/widgets/widget.mm:211):F:2:Scarlett 2i4 USB Analog surround 4.0 set as default
+[2020-03-31 15:12:53](src/widgets/widget.mm:211):F:3:Apple Audio Device Multikanal set as default
+[2020-03-31 15:12:53](src/widgets/widget.mm:211):F:0:Monitor of Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X] Digital Stereo (HDMI) set as default
+[2020-03-31 15:12:53](src/widgets/widget.mm:211):F:1:Monitor of ThinkPad Thunderbolt 3 Dock USB Audio Analog stereo set as default
+[2020-03-31 15:12:53](src/widgets/widget.mm:211):F:2:ThinkPad Thunderbolt 3 Dock USB Audio Mono set as default
+[2020-03-31 15:12:53](src/widgets/widget.mm:211):F:3:Monitor of Scarlett 2i4 USB Analog surround 4.0 set as default
+[2020-03-31 15:12:53](src/widgets/widget.mm:211):F:4:Scarlett 2i4 USB Analog stereo set as default
+[2020-03-31 15:12:53](src/widgets/widget.mm:211):F:5:Monitor of Apple Audio Device Multikanal set as default
+[2020-03-31 15:12:58](src/middleware.m:203):M:controlChanged1_0 notification posted
+[2020-03-31 15:12:59](src/middleware.m:203):M:controlChanged1_0 notification posted
+[2020-03-31 15:12:59](src/middleware.m:203):M:controlChanged1_0 notification posted
+[2020-03-31 15:12:59](src/middleware.m:203):M:controlChanged1_0 notification posted
+[2020-03-31 15:12:59](src/middleware.m:203):M:controlChanged1_0 notification posted

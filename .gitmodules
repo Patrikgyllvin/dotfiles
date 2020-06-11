@@ -1,0 +1,21 @@
+[submodule ".local/share/nvim/site/pack/git-plugins/start/nvim-lsp"]
+	path = .local/share/nvim/site/pack/git-plugins/start/nvim-lsp
+	url = https://github.com/neovim/nvim-lsp.git
+[submodule ".local/share/nvim/site/pack/git-plugins/start/completion-nvim"]
+	path = .local/share/nvim/site/pack/git-plugins/start/completion-nvim
+	url = https://github.com/haorenW1025/completion-nvim.git
+[submodule ".local/share/nvim/site/pack/git-plugins/start/cpp-enhanced-highlighting"]
+	path = .local/share/nvim/site/pack/git-plugins/start/cpp-enhanced-highlighting
+	url = https://github.com/octol/vim-cpp-enhanced-highlight.git
+[submodule "issy"]
+	path = issy
+	url = /home/patrik/.config/qutebrowser/issy
+[submodule "awesome-wm-widgets"]
+	path = awesome-wm-widgets
+	url = /home/patrik/.config/awesome/awesome-wm-widgets/
+[submodule "vifm.vim"]
+	path = vifm.vim
+	url = /home/patrik/.local/share/nvim/plugged/vifm.vim/
+[submodule "vim-one"]
+	path = vim-one
+	url = /home/patrik/.local/share/nvim/plugged/vim-one/
