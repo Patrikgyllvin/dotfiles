@@ -1,4 +1,5 @@
 .android
+
 .bash_history
 .buildroot*
 .cache
@@ -34,6 +35,10 @@
 .config/vlc
 .config/zoomus.conf
 .config/Unknown\ Organization
+.config/awsome/awesome-wm-widgets
+.config/qutebrowser/issy
+.local/share/nvim/plugged/vifm.vim
+.local/share/nvim/plugged/vim-one
 .dboard
 .debug
 .FreeCAD
