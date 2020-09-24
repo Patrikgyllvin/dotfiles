@@ -30,306 +30,306 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/home/patrik/Car-Evolution
-	Source
-4
-d/home/patrik/Car-Evolution/Source
-	include
+d/home/patrik/Documents/projekt-computer/java/src/computer/instruction
+	core
 1
-d/home/patrik/Car-Evolution/Source/include
-	Game
+d/home/patrik/Documents/projekt-computer/java/src/computer/instruction/core
+	InstructionCommand.java
+1
+d/home/patrik/Documents/projekt-computer/java/src/computer/instruction
+	core
+1
+d/home/patrik/Documents/projekt-computer/java/src/computer/instruction/core
+	InstructionCommand.java
+1
+d/home/patrik/Documents/projekt-computer/java/src/computer/instruction
+	Copy.java
+1
+d/home/patrik/Documents/projekt-computer/java/src/computer
+	instruction
+1
+d/home/patrik/Documents/projekt-computer/java/src/computer/instruction
+	Print.java
+3
+d/home/patrik/Documents/projekt-computer/java/src/computer
+	word
 2
-d/home/patrik/Car-Evolution/Source/include/Game
-	RenderSystem.h
-12
-d/home/patrik/Car-Evolution/Source/include
-	Game
-2
-d/home/patrik/Car-Evolution/Source
+d/home/patrik/Documents/projekt-computer/java/src
+	computer
+1
+d/home/patrik/Documents/projekt-computer/java
+	src
+1
+d/home/patrik/Documents/projekt-computer
+	java
+1
+d/home/patrik/Documents/projekt-computer/java
+	src
+1
+d/home/patrik/Documents/projekt-computer
+	java
+1
+d/home/patrik/Documents/projekt-computer/java
+	src
+1
+d/home/patrik/Documents/projekt-computer
 	src
 2
-d/home/patrik/Car-Evolution/Source/src
-	Game
-2
-d/home/patrik/Car-Evolution/Source/src/Game
-	RayCastSystem.cpp
-6
-d/home/patrik/Car-Evolution/Source/src
-	Engine
+d/home/patrik/Documents/projekt-computer/src
+	computer
 1
-d/home/patrik/Car-Evolution/Source/src/Engine
-	EntityCore
-3
-d/home/patrik/Car-Evolution/Source/src/Engine/EntityCore
-	..
-0
-d/home/patrik/Car-Evolution/Source/src/Engine
-	CoreSystems
-2
-d/home/patrik/Car-Evolution/Source/src/Engine/CoreSystems
-	RenderingSystem.cpp
-3
-d/home/patrik/Car-Evolution/Source/src/Engine
-	EntityCore
-3
-d/home/patrik/Car-Evolution/Source/src
-	Engine
+d/home/patrik/Documents/projekt-computer
+	java
 1
-d/home/patrik/Car-Evolution/Source
-	include
-1
-d/home/patrik/Car-Evolution
-	Source
-4
-d/home/patrik/Car-Evolution/Source
+d/home/patrik/Documents/projekt-computer/java
 	src
-2
-d/home/patrik/Car-Evolution/Source/src
-	Engine
 1
-d/home/patrik/Car-Evolution/Source
-	include
-1
-d/home/patrik/Car-Evolution/Source/include
-	Game
-2
-d/home/patrik/Car-Evolution/Source
+d/home/patrik/Documents/projekt-computer
 	src
-2
-d/home/patrik/Car-Evolution/Source/src
-	Game
-2
-d/home/patrik/Car-Evolution/Source/src/Game
-	RenderSystem.cpp
-7
-d/home/patrik/Car-Evolution/Source/src
-	Engine
 1
-d/home/patrik/Car-Evolution/Source/src/Engine
-	CoreSystems
-2
-d/home/patrik/Car-Evolution/Source/src/Engine/CoreSystems
-	RenderingSystem.cpp
-3
-d/home/patrik/Car-Evolution/Source/src/Engine
-	Events
-4
-d/home/patrik/Car-Evolution/Source/src
-	Engine
+d/home/patrik/Documents/projekt-computer/src
+	computer
 1
-d/home/patrik/Car-Evolution/Source
+d/home/patrik/Documents/projekt-computer/src/computer
+	instruction
+1
+d/home/patrik/Documents/projekt-computer/src/computer/instruction
+	..
+0
+d/home/patrik/Documents/projekt-computer/src/computer
+	word
+2
+d/home/patrik/Documents/projekt-computer/src/computer/word
+	..
+0
+d/home/patrik/Documents/projekt-computer/src/computer
+	instruction
+1
+d/home/patrik/Documents/projekt-computer/src/computer/instruction
+	..
+0
+d/home/patrik/Documents/projekt-computer/src/computer
+	instruction
+1
+d/home/patrik/Documents/projekt-computer/src
+	computer
+1
+d/home/patrik/Documents/projekt-computer/src/computer
+	instruction
+1
+d/home/patrik/Documents/projekt-computer/src/computer/instruction
+	..
+0
+d/home/patrik/Documents/projekt-computer/src/computer
+	instruction
+1
+d/home/patrik/Documents/projekt-computer/src
+	Main.java
+2
+d/home/patrik/Documents/projekt-computer
 	src
-2
-d/home/patrik/Car-Evolution/Source/src
-	Game
-2
-d/home/patrik/Car-Evolution/Source
-	include
 1
-d/home/patrik/Car-Evolution/Source/include
-	Engine
+d/home/patrik/Documents/projekt-computer/src
+	computer
 1
-d/home/patrik/Car-Evolution/Source/include/Engine
-	EntityCore
+d/home/patrik/Documents/projekt-computer/src/computer
+	instruction
+1
+d/home/patrik/Documents/projekt-computer/src/computer/instruction
+	..
+0
+d/home/patrik/Documents/projekt-computer/src/computer
+	word
+2
+d/home/patrik/Documents/projekt-computer/src/computer/word
+	..
+0
+d/home/patrik/Documents/projekt-computer/src/computer
+	word
+2
+d/home/patrik/Documents/projekt-computer/src
+	computer
+1
+d/home/patrik/Documents/projekt-computer/src/computer
+	instruction
+1
+d/home/patrik/Documents/projekt-computer/src/computer/instruction
+	..
+0
+d/home/patrik/Documents/projekt-computer/src/computer
+	word
+2
+d/home/patrik/Documents/projekt-computer/src/computer/word
+	..
+0
+d/home/patrik/Documents/projekt-computer/src/computer
+	word
+2
+d/home/patrik/Documents/projekt-computer/src/computer/word
+	core
+1
+d/home/patrik/Documents/projekt-computer/src/computer/word/core
+	Word.java
+1
+d/home/patrik/Documents/projekt-computer/src/computer/word
+	core
+1
+d/home/patrik/Documents/projekt-computer/src/computer/word/core
+	Word.java
+1
+d/home/patrik/Documents/projekt-computer/src/computer/word
+	ByteWord.java
+2
+d/home/patrik/Documents/projekt-computer/src/computer
+	instruction
+1
+d/home/patrik/Documents/projekt-computer/src/computer/instruction
+	Print.java
+3
+d/home/patrik/Documents/projekt-computer/src/computer
+	word
+2
+d/home/patrik/Documents/projekt-computer/src/computer/word
+	ByteWord.java
+2
+d/home/patrik/Documents/projekt-computer/src/computer
+	word
+2
+d/home/patrik/Documents/projekt-computer/src/computer/word
+	Address.java
+1
+d/home/patrik/Documents/projekt-computer/src/computer
+	instruction
+1
+d/home/patrik/Documents/projekt-computer/src/computer/instruction
+	Print.java
+3
+d/home/patrik/Documents/projekt-computer/src/computer
+	ByteWord.java
+3
+d/home/patrik/Documents/projekt-computer/src
+	computer
+1
+d/home/patrik/Documents/projekt-computer/src/computer
+	instruction
+1
+d/home/patrik/Documents/projekt-computer/src/computer/instruction
+	InstructionCommand.java
+2
+d/home/patrik/Documents/projekt-computer/src/computer
+	Address.java
+2
+d/home/patrik/Documents/projekt-computer/src
+	computer
+1
+d/home/patrik/Documents/projekt-computer/src/computer
+	ByteWordFactory.java
 4
-d/home/patrik/Car-Evolution/Source/include/Engine/EntityCore
-	EntityManager.h
-2
-d/home/patrik/Car-Evolution/Source/include/Engine
-	CoreComponents
-2
-d/home/patrik/Car-Evolution/Source/include/Engine/CoreComponents
-	MovementComponent.h
-4
-d/home/patrik/Car-Evolution/Source/include/Engine
-	CoreComponents
-2
-d/home/patrik/Car-Evolution/Source/include
-	Game
-2
-d/home/patrik/Car-Evolution/Source/include/Game
-	CameraComponent.h
+d/home/patrik/Documents/projekt-computer/src
+	computer
 1
-d/home/patrik/Car-Evolution/Source/include
-	Game
-2
-d/home/patrik/Car-Evolution/Source
-	include
+d/home/patrik/Documents/projekt-computer/src/computer
+	instruction
 1
-d/home/patrik/Car-Evolution
-	Source
-4
-d/home/patrik/Car-Evolution/Source
+d/home/patrik/Documents/projekt-computer/src/computer/instruction
+	InstructionCommand.java
+2
+d/home/patrik/Documents/projekt-computer/src/computer
+	WordFactory.java
+11
+d/home/patrik/Documents/projekt-computer/src
+	computer
+1
+d/home/patrik/Documents/projekt-computer
 	src
+1
+d/home/patrik/Documents/projekt-computer/src
+	computer
+1
+d/home/patrik/Documents/projekt-computer/src/computer
+	WordFactory.java
+11
+d/home/patrik/Documents/projekt-computer/src
+	computer
+1
+d/home/patrik/Documents/projekt-computer/src/computer
+	instruction
+1
+d/home/patrik/Documents/projekt-computer/src/computer/instruction
+	Copy.java
+1
+d/home/patrik/Documents/projekt-computer/src/computer
+	ByteWordFactory.java
+4
+d/home/patrik/Documents/projekt-computer/src
+	Main.java
 2
-d/home/patrik/Car-Evolution/Source/src
-	Game
-2
-d/home/patrik/Car-Evolution/Source/src/Game
-	RenderSystem.cpp
-7
-d/home/patrik/Car-Evolution/Source/src
-	Game
-2
-d/home/patrik/Car-Evolution/Source
+d/home/patrik/Documents/projekt-computer
 	src
+1
+d/home/patrik/Documents/projekt-computer/src
+	computer
+1
+d/home/patrik/Documents/projekt-computer/src/computer
+	instruction
+1
+d/home/patrik/Documents/projekt-computer/src/computer/instruction
+	Copy.java
+1
+d/home/patrik/Documents/projekt-computer/src/computer
+	Address.java
 2
-d/home/patrik/Car-Evolution
-	Source
-4
-d/home/patrik/GameEngine/Source/src
-	Game
+d/home/patrik/Documents/projekt-computer/src
+	Main.java
 2
-d/home/patrik/GameEngine/Source/src/Game
-	Game.cpp
-1
-d/home/patrik/GameEngine/Source/src
-	Engine
-1
-d/home/patrik/GameEngine/Source/src/Engine
-	Events
-4
-d/home/patrik/GameEngine/Source/src/Engine/Events
-	..
-0
-d/home/patrik/GameEngine/Source/src/Engine
-	CoreSystems
-2
-d/home/patrik/GameEngine/Source/src/Engine/CoreSystems
-	StdRenderSystem.cpp
-4
-d/home/patrik/GameEngine/Source/src/Engine
-	Shaders
-7
-d/home/patrik/GameEngine/Source/src/Engine/Shaders
-	..
-0
-d/home/patrik/GameEngine/Source/src/Engine
-	Shaders
-7
-d/home/patrik/GameEngine/Source/src
-	Engine
-1
-d/home/patrik
-	CameraComponent.h
-10
-d/home
-	patrik
-1
-d/home/patrik
-	Car-Evolution
-1
-d/home/patrik/Car-Evolution
-	Res
-3
-d/home/patrik/Car-Evolution/Res
-	Shaders
-1
-d/home/patrik/Car-Evolution/Res/Shaders
-	..
-0
-d/home/patrik/Car-Evolution/Res
-	Tex
-2
-d/home/patrik/Car-Evolution/Res/Tex
-	..
-0
-d/home/patrik/Car-Evolution/Res
-	Shaders
-1
-d/home/patrik/Car-Evolution
-	Source
-4
-d/home/patrik
-	GameEngine
-5
-d/home/patrik/GameEngine
-	Res
-3
-d/home/patrik/GameEngine/Res
-	Shaders
-1
-d/home/patrik/GameEngine/Res/Shaders
-	..
-0
-d/home/patrik/GameEngine/Res
-	Shaders
-1
-d/home/patrik/GameEngine
-	Res
-3
-d/home/patrik/GameEngine/Source/src/Game
-	Main.cpp
-2
-d/home/patrik/GameEngine/Source/src
-	Game
-2
-d/home/patrik/GameEngine/Source
+d/home/patrik/Documents/projekt-computer
 	src
-2
-d/home/patrik/GameEngine
-	Res
+1
+d/home/patrik/Documents/projekt-computer/src
+	computer
+1
+d/home/patrik/Documents/projekt-computer/src/computer
+	instruction
+1
+d/home/patrik/Documents/projekt-computer/src/computer/instruction
+	Print.java
 3
-d/home/patrik/GameEngine/Res
-	Shaders
+d/home/patrik/Documents/projekt-computer/src/computer
+	instruction
 1
-d/home/patrik/GameEngine
-	Res
-3
-d/home/patrik/GameEngine/Res
-	Shaders
+d/home/patrik/Documents/projekt-computer/src/computer/instruction
+	..
+0
+d/home/patrik/Documents/projekt-computer/src/computer
+	instruction
+1
+d/home/patrik/Documents/projekt-computer/src/computer/instruction
+	Copy.java
+1
+d/home/patrik/Documents/projekt-computer/src
+	computer
+1
+d/home/patrik/Documents/projekt-computer
+	src
+1
+d/home/patrik/Documents/projekt-computer/src
+	Main.java
 2
-d/home/patrik/GameEngine/Res/Shaders
-	..
-0
-d/home/patrik/GameEngine/Res
-	Engine
+d/home/patrik/Documents/projekt-computer/src/computer/instruction
+	Copy.java
 1
-d/home/patrik/GameEngine/Res/Engine
-	Shaders
+d/home/patrik/Documents/projekt-computer/src/computer
+	instruction
 1
-d/home/patrik/GameEngine/Res
-	Engine
+d/home/patrik/Documents/projekt-computer/src
+	Main.java
+2
+d/home/patrik/Documents/projekt-computer
+	src
 1
-d/home/patrik/GameEngine/Res/Engine
-	Shaders
-1
-d/home/patrik/GameEngine/Res/Engine/Shaders
-	..
-0
-d/home/patrik/GameEngine/Res/Engine
-	Shaders
-1
-d/home/patrik/GameEngine/Res
-	Engine
-1
-d/home/patrik/GameEngine
-	bin
-6
-d/home/patrik
-	Downloads
-4
-d/home/patrik/Downloads
-	..
-0
-d/home/patrik
-	Downloads
-4
-d/home
-	patrik
-1
-d/
-	home
-5
-d/home
-	patrik
-1
-d/home/patrik
-	snap
-9
-d/home/patrik/snap
-	auryo
-1
+d/home/patrik/Documents/projekt-computer/src
+	Main.java
+2
 d
 
 # Right window history (oldest to newest):
@@ -663,12 +663,21 @@ pStdRenderSystem.cpp
 # Local filter history (oldest to newest):
 
 # Registers:
+""/home/patrik/.local/share/vifm/Trash/000_word
 
 # Directory stack (oldest to newest):
 
 # Trash content:
 t/home/patrik/.local/share/vifm/Trash/000_RenderSystem.h
 	/home/patrik/GameEngine/Source/include/Game/RenderSystem.h
+t/home/patrik/.local/share/vifm/Trash/000_core
+	/home/patrik/Documents/projekt-computer/java/src/computer/instruction/core
+t/home/patrik/.local/share/vifm/Trash/000_java
+	/home/patrik/Documents/projekt-computer/java
+t/home/patrik/.local/share/vifm/Trash/001_core
+	/home/patrik/Documents/projekt-computer/src/computer/word/core
+t/home/patrik/.local/share/vifm/Trash/000_word
+	/home/patrik/Documents/projekt-computer/src/computer/word
 
 # State:
 f

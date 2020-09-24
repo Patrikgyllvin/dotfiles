@@ -41,6 +41,7 @@
 .ivy2
 .java
 .launchpadlib
+.lesshst/
 .local/bin
 .local/include
 .local/lib
@@ -122,6 +123,7 @@ GameEngine
 .steam
 .steampath
 .steampid
+.ssh
 Documents
 server
 Desktop
@@ -130,3 +132,7 @@ Pictures
 *gnome*
 snap
 Telegram*
+Logisim
+Umlet
+.config/UMLet
+.lesshst

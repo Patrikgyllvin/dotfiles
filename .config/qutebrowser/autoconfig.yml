@@ -26,6 +26,8 @@ settings:
       <j><k>: <Escape
   content.geolocation:
     https://www.google.com: true
+  content.host_blocking.enabled:
+    global: false
   content.notifications:
     https://www.reddit.com: false
   content.register_protocol_handler:

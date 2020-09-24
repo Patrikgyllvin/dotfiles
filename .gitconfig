@@ -1,3 +1,5 @@
 [user]
 	email = patrikgyllvin@icloud.com
 	name = Patrik Gyllvin
+[pull]
+	rebase = false
