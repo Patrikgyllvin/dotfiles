@@ -1,3 +1,4 @@
 alsa_card.pci-0000:01:00.1:output:hdmi-output-0 mute:0 volumes:2,1.000000,1.000000
 alsa_card.usb-Focusrite_Scarlett_2i4_USB-00:input:analog-input mute:0 volumes:2,1.000000,1.000000
 alsa_card.usb-Focusrite_Scarlett_2i4_USB-00:output:analog-output mute:0 volumes:4,1.000000,1.000000,1.000000,1.000000
+alsa_card.usb-Lenovo_ThinkPad_Thunderbolt_3_Dock_USB_Audio_000000000000-00:input:analog-input-mic mute:0 volumes:1,1.000000

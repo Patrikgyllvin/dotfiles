@@ -12,6 +12,8 @@ Plug 'mhinz/vim-startify'
 
 Plug 'tpope/vim-fugitive'
 
+Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
+
 call plug#end()
 
 set runtimepath^=~/.vim runtimepath+=~/.vim/after

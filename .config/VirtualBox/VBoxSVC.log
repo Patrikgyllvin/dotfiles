@@ -1,0 +1,39 @@
+00:00:00.001897 main     VirtualBox XPCOM Server 6.1.18 r142142 linux.amd64 (Feb 16 2021 07:45:49) release log
+00:00:00.001899 main     Log opened 2021-02-19T11:50:07.898140000Z
+00:00:00.001899 main     Build Type: release
+00:00:00.001901 main     OS Product: Linux
+00:00:00.001902 main     OS Release: 5.10.12-1-mbp
+00:00:00.001903 main     OS Version: #1 SMP PREEMPT Tue, 02 Feb 2021 02:56:08 +0000
+00:00:00.001922 main     DMI Product Name: MacBookPro15,1
+00:00:00.001928 main     DMI Product Version: 1.0
+00:00:00.001932 main     Firmware type: UEFI
+00:00:00.001974 main     Secure Boot: Disabled
+00:00:00.002002 main     Host RAM: 15899MB (15.5GB) total, 15059MB (14.7GB) available
+00:00:00.002008 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.002008 main     Process ID: 4740
+00:00:00.002009 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.003419 main     IPC socket path: /tmp/.vbox-patrik-ipc/ipcd
+00:00:00.111340 nspr-2   VirtualBox: object creation starts
+00:00:00.111389 nspr-2   Home directory: '/home/patrik/.config/VirtualBox'
+00:00:00.111756 nspr-2   Loading settings file "/home/patrik/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.125925 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.126839 nspr-2   HostDnsMonitor: initializing
+00:00:00.127021 nspr-2   NAT: resolv.conf: nameserver ::1
+00:00:00.127025 nspr-2   NAT: resolv.conf: nameserver 127.0.0.1
+00:00:00.127030 nspr-2   HostDnsMonitor: updating information
+00:00:00.127036 nspr-2   HostDnsMonitor: old information
+00:00:00.127037 nspr-2     no server entries
+00:00:00.127039 nspr-2     no domain set
+00:00:00.127040 nspr-2     no search string entries
+00:00:00.127041 nspr-2   HostDnsMonitor: new information
+00:00:00.127043 nspr-2     server 1: ::1
+00:00:00.127044 nspr-2     server 2: 127.0.0.1
+00:00:00.127046 nspr-2     no domain set
+00:00:00.127047 nspr-2     no search string entries
+00:00:00.128908 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.129238 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={027bc463-929c-40e8-bf16-fea557cd8e7e} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.129926 nspr-2   VirtualBox: object created
+00:10:32.134795 nspr-2   Saving settings file "/home/patrik/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:10:32.189381 nspr-2   Saving settings file "/home/patrik/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:10:32.276704 nspr-3   Saving settings file "/home/patrik/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:10:32.331655 nspr-3   Saving settings file "/home/patrik/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"

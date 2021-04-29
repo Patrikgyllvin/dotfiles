@@ -7,7 +7,7 @@
 config_version: 2
 settings:
   auto_save.session:
-    global: false
+    global: true
   bindings.commands:
     global:
       insert: {}
@@ -24,11 +24,16 @@ settings:
       <Shift-Enter>: <Return>
       <Shift-Return>: <Return>
       <j><k>: <Escape
+  content.desktop_capture:
+    https://www.messenger.com: true
   content.geolocation:
     https://www.google.com: true
   content.host_blocking.enabled:
     global: false
+  content.media_capture:
+    https://www.messenger.com: true
   content.notifications:
+    https://www.messenger.com: true
     https://www.reddit.com: false
   content.register_protocol_handler:
     https://mail.google.com?extsrc=mailto&url=%25s: true

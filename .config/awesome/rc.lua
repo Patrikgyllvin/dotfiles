@@ -145,6 +145,8 @@ local volumebar_widget = require("awesome-wm-widgets.volumebar-widget.volumebar"
 local spacer = wibox.widget.textbox("  |  ")
 local space = wibox.widget.textbox(" ")
 
+beautiful.systray_icon_spacing = 10
+
 -- Create a wibox for each screen and add it
 local taglist_buttons = gears.table.join(
                     awful.button({ }, 1, function(t) t:view_only() end),
